@@ -10,6 +10,7 @@ Esta es una versión optimizada del proyecto Hotel Chatbot para despliegue en VP
 - PM2 (para gestión de procesos)
 
 ## Estructura de Directorios
+
 ~/hotel-chatbot/
 ├── backend/ # Código del backend
 ├── frontend/ # Código del frontend
@@ -21,15 +22,16 @@ Esta es una versión optimizada del proyecto Hotel Chatbot para despliegue en VP
 ├── data/ # Datos persistentes
 └── exports/ # Archivos exportados
 
-
 ## Pasos para el Despliegue
 
 1. Clonar este repositorio en el servidor:
+
    ```bash
-   git clone [URL_DEL_REPOSITORIO] ~/hotel-chatbot-repo
+   git clone https://github.com/ReservacionDirecta/hotel-chatbot-deploy.git ~/hotel-chatbot-repo
    ```
 
 2. Copiar los archivos al directorio de la aplicación:
+
    ```bash
    mkdir -p ~/hotel-chatbot
    cp -r ~/hotel-chatbot-repo/backend ~/hotel-chatbot/
@@ -37,11 +39,12 @@ Esta es una versión optimizada del proyecto Hotel Chatbot para despliegue en VP
    ```
 
 3. Configurar variables de entorno:
+
    ```bash
    cp ~/hotel-chatbot/backend/.env.example ~/hotel-chatbot/backend/.env
    cp ~/hotel-chatbot/frontend/.env.example ~/hotel-chatbot/frontend/.env.local
    ```
-   
+
    Editar los archivos .env según sea necesario.
 
 4. Ejecutar el script de despliegue:
@@ -52,18 +55,20 @@ Esta es una versión optimizada del proyecto Hotel Chatbot para despliegue en VP
 
 ## Verificación
 
-- Backend: http://[IP_DEL_SERVIDOR]:4000/api
-- Frontend: http://[IP_DEL_SERVIDOR]:3000
+- Backend: http://165.154.254.43:4000/api
+- Frontend: http://165.154.254.43:3000
 
 ## Mantenimiento
 
 - Ver logs:
+
   ```bash
   pm2 logs hotel-chatbot-backend
   pm2 logs hotel-chatbot-frontend
   ```
 
 - Reiniciar servicios:
+
   ```bash
   pm2 restart hotel-chatbot-backend
   pm2 restart hotel-chatbot-frontend
@@ -75,4 +80,4 @@ Esta es una versión optimizada del proyecto Hotel Chatbot para despliegue en VP
   git pull
   ./deploy.sh
   ```
-EOL
+  EOL
