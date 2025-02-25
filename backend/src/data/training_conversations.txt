@@ -1,0 +1,1984 @@
+Usuario: Hola precio para el 08 y 10 de marzo para dos personas
+Asistente: Holaa, Buen d a Te comunicaste con el Hotel Pe a Linda Para
+Asistente: Con gusto le preparo la cotizaci n.
+Asistente: Del 8 al 10 de marzo Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: Hola qué tal sigue a n est promoci n
+---
+
+Asistente: si, depender de para qué fechas y personas desea cotizar
+Usuario: Dos personas 08 y 10 de marzo
+Asistente: Buen dia, Con gusto le preparo la cotizaci n.
+Asistente: Del 8 al 10 de marzo Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+---
+
+Usuario: Buenas tardes Me ayudas , cómo podr a ser el pago Para separar est promoci n
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100
+---
+
+Usuario: Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: sí desea reservar, nos debe confirmar los siguientes datos Fecha de entrada 08 de marzo Fecha de salida 10 de marzo
+Asistente: Nombres y apellidos del titular Evelin montalban Nima
+Usuario: N celular DNI 76403857 Correo evelin.montalban.97 gmail.com Lugar de dónde nos visita Lima Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+---
+
+Asistente: ya le reservo. Desea abonar con el 50 o el 100
+Asistente: Me confirma por favor.
+Usuario: Una consulta tiene qué ser la titular de la tarjeta el de la reserva
+Usuario: De acuerdo
+Asistente: sólo nos envia el pago por está via dónde se visualice número de operaci n y monto abonado. Con cuál oferta desea reservar
+Usuario: Est oferta , queremos la habitaci n por fis frente al mar
+Asistente: de acuerdo, esa promo es abonando el 100 está abonando el 50
+Asistente: cuál de las 2 desea tomar
+Usuario: A ver un momento
+---
+
+Asistente: Quedamos atentos.
+Asistente: aún desea reservar
+Usuario: Denme un momento por favor
+Asistente: ok un momento
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 50 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Ingresar con tarjeta
+Asistente: ok un momento
+Asistente: Listo, ya le reenvie. Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+---
+
+Usuario: Lo validas Por favor
+Asistente: por favor nos envia un voucher dónde se visualice el monto abonado
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Nuestra habitaci n estar frente al mar verdad
+Asistente: la habitación estar en piso superior con balcón privado con vista al mar
+Usuario: Est bien
+Asistente: Hola Fabiola buenos dias, le contactamos del Hotel Pe a Linda bungalows, hemos recibido su reserva a trav s de nuestra web-
+---
+
+Usuario: 1 (786) 348-1663 Hola buenos d as
+Asistente: Agregamos el 25 de descuento para qué abone hoy el 100
+Usuario: 1 (786) 348-1663 D jeme consultar con mi esposo y le aviso
+Usuario: 1 (786) 348-1663 Una pregunta
+Asistente: 1 (786) 348-1663 C mo lo dice en la pol tica listada del local
+Asistente: 1 (786) 348-1663 Ok y c mo est el clima en esos d as
+Usuario: 1 (786) 348-1663 Tengo entendido qué el mar a estado muy movido 1 (786) 348-1663
+Asistente: El oleaje anomalo es medianamente normal en está epoca, duro un día y afortunadamente ya todo mancora se encuentra operando con normalidad. Por suerte nunca afecto el hotel y siempre estuvimos operando con normalidad Bastante sol
+Usuario: 1 (786) 348-1663 Nada de lluvias o inundaciones
+---
+
+Asistente: Ni lluvias ni inundaciones
+Usuario: 1 (786) 348-1663 No huaicos
+Asistente: No, no hay.
+Asistente: Ya le envio un momento.
+Usuario: 1 (786) 348-1663 Disculpa otra pregunta sí en caso haya alg n problema con el clima hay alg n tipo de reembolso
+Asistente: No manejamos devoluciones de dinero bajo ningun concepto lamentablemente cómo estipulan nuestras politicas, sólo reprogramaciones sujeto a condiciones
+Usuario: 1 (786) 348-1663 Ya se le envi
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+---
+
+Usuario: Buenos d as
+Usuario: Quiero hacer Una reserva
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta indicando el mes Cantidad de personas sí hay ni os incluir edades Desde el 04 al 06
+Asistente: Nos queda disponibilidad sólo por 1 noche del 5 al 6. funcionaria
+Usuario: Queriamos dos habitaciones Pero del 04 al 06
+---
+
+Asistente: Lamentamos no poder ayudarle. Esperamos recibirle en otra oportunidad
+Usuario: Y del 06 al 08 tienes disponibikidad
+Asistente: más disponibilidad podemos ofrecerle desde el 11 de enero
+Asistente: Por favor, indicanos cómo podemos ayudarte el día de hoy.
+Usuario: Quisiera saber sí hay disponibilidad Pra el día 05 de febrero al 07
+Usuario: Para 06 personas
+Asistente: Holaa buen dia, cómo desean distrbiuirse Cuantas personas por habitaci n
+Usuario: 3 habitaciones
+Asistente: Lamentablemente no contamos con disponibilidad. Podemos ofrecerle del 10 al 12funcionaria
+---
+
+Usuario: Ya sí lo deseo
+Usuario: Con cuánto separaria
+Asistente: ya le indico
+Usuario: Okiii Seria para 5 personas en 03 habitaciones
+Asistente: sii disculpe, estoy moviendo los bungalows en sistema para qué me calcen las fechas y poder cotizar 3 bungalows un momento por favor
+Asistente: Del 10 al 12 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+---
+
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortes a V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas La cotizaci n seria por cada bungalow para 1 2 personas.
+Asistente: Le comento, tengo disponible 1 en piso superior, y 2 en primer piso. Los de primer piso son un poco más cvostosos por estar cerca de la arena y tener salida al mar. Sin embargo sí reserva 3 bungalows, le brindamos el mismo costo a los 3
+Usuario: Ya ahorita mismo hago el pago Los dos del primer puso
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada
+---
+
+Usuario: Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: Perfecto 2 en primer piso y 1 en piso superior
+Usuario: A qu cuenta transfiero
+Asistente: Nos confirma los datos completos por favor.
+Usuario: Fecha de entrada 10 de febrero
+---
+
+Usuario: Fecha de salida 12 de febrero
+Asistente: Nombres y apellidos del titular
+Usuario: Diana Alexandra vise Diaz N celular DNI 77049891 Correo alexandra_13_9 hotmail.com Lugar de dónde nos visita Chiclayo Reserva abonando el 50 o el 100
+Asistente: ya le reservo. Serian 3 bungalows
+---
+
+Asistente: perfecto, un momento
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: Al realizar el pago nos envia el voucher por está via para confirmarle
+Asistente: ya le confirmo
+Usuario: Okiii est bien
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+---
+
+Asistente: Le adjunto nuestros PDF de taxis y tours
+Usuario: mancora travel.pdf
+Usuario: Hola buenas noches quisiera informaci n de habitaci n para 3 personas porfa 2 adultos una ni a
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: Para el mes de febrero
+Usuario: Dos adultos una ni a
+Asistente: Holaa buen dia, para poder cotizarle es necesario una fecha exacta ya qué nuestros costos varian acorde a la fecha.
+---
+
+Asistente: Adicional nos indica la edad de la ni a para brindarle la mejor oferta
+Usuario: El d a 5 al 8 De febrero
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Con gusto le preparo la cotizaci n., qué edad tiene la ni a (Los ni os menores de 4 a itos no pagan adicional por estad a, sólo sí desean desayuno adicional y se paga directamente en el hotel)
+Usuario: 8 a os
+Asistente: Con gusto le preparo la cotizaci n.
+---
+
+Asistente: Del 5 al 8 de feb Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: Disculpe del 4 al 7 tmb hay disponibilidad
+Usuario: Porq yo aprox llegar a a la 1 30 pm El martes
+Asistente: Del 4 al 7 de febrero
+---
+
+Asistente: Bungalow Primer piso con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad. V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Buenas tardes una consulta sí deseo quedarme desde el d a 4 al 8
+---
+
+Usuario: Quiero una habitaci n frente al
+Asistente: todos nuestros bungalow son con vista al mar
+Usuario: Ah oki
+Asistente: Del 4 al 8 de febrero Bungalow Primer piso con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Oh y está promoci n sigue vigente
+Asistente: sí claro
+---
+
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: Hola Quedamos atentos a sus fechas de inter s y cu ntas personas ser an para brindarle la mejor oferta
+Asistente: Hola buenas noches
+---
+
+Asistente: En qué le podemos ayudar
+Usuario: Todav a tiene disponible La habitaci n Cu l era la q me ofrec an
+Asistente: ya le indico.
+Asistente: sii justo es el ultimo espacio sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular
+---
+
+Usuario: Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: cuál era la habitaci n Xfis
+Usuario: Ser del 4 al 8 Es salida al
+Asistente: Este es el unico disponible. De primer p iso sí correcto con salida al mar
+Usuario: Esa mw
+---
+
+Usuario: Sale 1668.15
+Usuario: Es para 3 personas
+Usuario: Dos adultos y una ni a Ir n dos camas
+Asistente: cómo se ve en las fotos, cama queen camarote.
+Usuario: Ah s per
+Usuario: Hay aire acondicionado
+Asistente: No, sólo ventilador cómo le indicamos en la cotizaci n
+Usuario: Ya perfecto su hotel a cuantas horas est Del aeropuerto De piura
+---
+
+Asistente: unas 3 horas aprox.
+Asistente: Ya estamos culminando turno, le atendemos nuevamente el día de ma ana
+Usuario: Ok ma ana porfa Hago la reservaci n
+Asistente: recuerde qué es el ultimo, vamos respondiendo los mensajes por turno.
+Usuario: Horario empieza la atenci n
+Asistente: 8 am, sin embargo vamos respondiendo por turno. Hasta ma ana
+Usuario: Mejor lo separo de una vez D jeme su n mero de cuenta xfa
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+---
+
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Buenos d as
+Usuario: sí desea reservar, nos debe confirmar los siguientes datos Fecha de entrada 4 de febrero
+---
+
+Usuario: Fecha de salida 8 de febrero
+Asistente: Nombres y apellidos del titular Mar a Fe Delgado
+Usuario: Andreu N celular DNI 77563950 Correo Mariadelgadoandreu12 gmail.com Lugar de dónde nos visita Lima Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Su n mero de cuenta xfa
+Asistente: ya le reservo
+---
+
+Asistente: desea con el 50 o 100
+Usuario: El 50 Oh espera sí pago el 100
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 50 para confirmar su reserva y acceder a todos los descuentos ya le indico
+Usuario: sí pago el 100 cu nto me sale
+Asistente: correcto
+---
+
+Usuario: Mejor
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Asistente: no sólo son sillas, sin embargo sólo disponemos de las blancas
+Usuario: sí est bien Una consulta m s jejeje Q este es la habitaci n https vm.tiktok.com ZMk4n1nAF
+Asistente: sí así son nuestros bungalows de primer piso, cama queen camarote
+Usuario: Perfecto
+---
+
+Asistente: El bungalow no es exactamente igual puede variar la posici n de las camas Le esperamos
+Usuario: Hola una consulta tiene hab para una persona
+Asistente: Nos indicas fechas
+Usuario: Del 4 al 8 Mismas fechas
+Asistente: Lo siento no hay disponibilidad
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Holaa quedamos atentos a sus fechas de inter s y cuantas personas ser an para brindarle la mejor oferta
+Asistente: Del 18 al 20 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 4 personas
+---
+
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Asistente: sí claro, disponemos de estacionamiento con vigilancia las 24h El bungalow es en piso superior desearia cotizar en primer piso
+Asistente: en primer piso son un poco más costosos por su ubicaci n
+Usuario: Frente al mar
+---
+
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Usuario: Me puede confirmar
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100
+---
+
+Usuario: Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: Correcto, está promo es abonando el 100
+Asistente: Nos confirma sus datos completos para reservarle.
+Usuario: Porfavor quiero cotizar el bungalow del 1er piso
+Asistente: ya le indico
+Asistente: Del 18 al 20 de febrero Bungalow Primer piso Balc n privado con vista al mar
+Usuario: 4 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+---
+
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: Con está promoci n
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+---
+
+Asistente: Perfecto, esa oferta es abonando el 100 quedamos atentos a sus datos completos
+Usuario: - Fecha de entrada 18 de febrero - fecha de salida 20 de febrero - Edgar Vargas Valladolid - edgar1595 hotmail.com - Lima DNI 40626162
+Asistente: ya le reservo
+Usuario: Me puede dar una cuenta del BBVA para depositarle el 100
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta
+---
+
+Asistente: IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Asistente: sí claro le esperamos.
+Usuario: Con qui n tengo el gusto
+Asistente: Adriana Alvarez
+Usuario: Hola Podr as darme m s informaci n
+Asistente: Hola, bienvenido al hotel Pe a Linda.
+---
+
+Asistente: Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: -08 02 al 11 02 -3 adultos
+Asistente: Del 8 al 11 de febrero Bungalow primer piso con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia
+---
+
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Perfecto Podr a hacerte el dep sito ma ana por favor
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+---
+
+Asistente: Holaa quedamos atentos a sus fechas de inter s y cuantas personas ser an para brindarle la mejor oferta
+Usuario: Ya hab amos cotizado
+Asistente: holaaa todavia tenemos disponibilidad desearia reservar
+Usuario: Sii por fa
+Asistente: JUSTO disponemos del ultimo bungalow sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular
+---
+
+Usuario: Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: 08 02 11 02 Karen D vila Vilca 73030386 kadavila15 gmail.com El 100
+Asistente: ya le reservo
+---
+
+Usuario: sí por favor
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Usuario: A n no me llega el correo
+Asistente: ya verifico
+Asistente: Estimada verifique se lo envi de nuevo
+Usuario: Ah te env o la constancia de pafo
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+---
+
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Buenas noches estoy buscando estadía
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Hola Quedamos atentos a sus fechas de inter s y cu ntas personas ser an para brindarle la mejor oferta
+Usuario: 18 febrero Dos adultos
+---
+
+Usuario: 3 ni os
+Asistente: Hola buen día nos indicas las edades de los ni os
+Usuario: 13 , 11 y 9
+Asistente: Del 18 AL 20 DE FEBRERO Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 5 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s
+---
+
+Asistente: Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Buen d a.
+Asistente: sí por favor me podr a dar más info sobre el tours de nad con tortugas. cuánto me sale por las 5 personas y lo qué incluye
+Usuario: Algo más me podría dar un n mero de contacto para poder llamar y así comunicarnos mejor Me interesa mucho el bungalow Para alquilar
+Asistente: ya le envio el catalogo de nuestros tours
+Usuario: 1. Brochure mancora.pdf.pdf
+Asistente: Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+---
+
+Usuario: Los tours se reservan por este mismo medio hasta con MAXIMO 24 horas de anticipaci n. Los recogen en recepci n
+Asistente: No manejamos atenci n telef nica por el respaldo de la comunicaci n ante cualquier inconveniente.
+Usuario: Ya Pero yo cómo se con quién estoy conversando. Entenderas un poco mi desconfianza por qué al depositar dinero, hay qué tener cuidado. Hay mucha gente estafando en red. Y mil disculpas sí te ofendo
+Usuario: No quiero llevarme una sorpresa cuándo llegue y no este nadie A quién decirle algo
+Asistente: Todas las cuentas del hotel se encuentran a nombre y ruc del hotel, para qué pueda verificarlo Tambi n este Whatsapp, se encuentra asociado a todas las redes sociales del hotel. El hotel tiene de 20 a os, encontrar bastante informaci n en internet. Ya le envio nuestro ruc y redes sociales. Puede reservar por cualquiera de esos canales o por nuestra web
+---
+
+Asistente: Ya le envio.
+Asistente: https www.facebook.com HotelPenaLindaBungalows locale es_LA https www.instagram.com hotelpenalindabungalows
+Usuario: https penalindamancora.com
+Asistente: Pe a Linda Bungalows SAC
+Usuario: Cuantas camas tiene el bungalow
+Usuario: Y cuál es el n mero de cuenta para transferir
+Asistente: Tal cuál se ve en las fotos, posee cama queen camarote, y colchoens en el altillo acorde a la cantidad de personas qué sean sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+---
+
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: La fecha tiene qué ser la difinitiva o puede variar uno o dos días
+Usuario: Veras mi esposa sale de vacaciones el 15 de febrero pero el vuelo lima a piura lo tengo para el lunes 17 Supongo qué 18 o 19 estaremos llendo para all
+Usuario: Por cierto tiene qué darme unas pautas de cómo llegar por qué vamos a tomar el bus a mancora
+Asistente: Si, le comento. Tiene qué reservar días especificos. No tentativos.
+---
+
+Asistente: Adicional, al reservar y pagar, sólo podrá realizar un cambio de fechas, sujeto a disponibilidad con un minimo de 7 d as de anticipaci n, el hotel tiene una demanda bastante alta, no le aseguramos qué encuentre disponibilidad. De echo para las fechas de su inter s quedan muy pocos bungalows.
+Asistente: Puede mejor reservar cuándo tenga seguridad de las fechas a reservar. Desde mancora, el pueblo, qué es bastante peque o, pueden bajarse dónde deseen, de alli tomar un mototaxi hasta el hotel y sólo indicando el nombre del hotel, somos bastante conocidos. Pe a Linda.
+Usuario: Las fechas te las puedo confirmar por la tarde noche hoy mismo. Porfa
+Asistente: Listo no se preocupe. Quedamos atentos
+Usuario: Pero sí de antemano te digo sí deseo alquilar el hotel 3 días 2 noches
+Asistente: Perfecto, quedamos atentos
+Usuario: 927 soles . correcto
+Asistente: del 18 al 20, sí correcto.
+Usuario: Consulta el tours sale todos los d as
+---
+
+Asistente: sí depende del tour, deben reservarse con un minimo de 24 horas.
+Usuario: Hola buen d a
+Usuario: Fecha de entrada 19 Febrero Fecha de salida 21 febrero Jose Felix Yovera Valladolid 45247273 Felhixyovera. gmail Piura
+Usuario: Deseo reservar con el 50
+Usuario: Me confirma la recepci n
+Asistente: Buen dia, ya le hago su reserva, 19 al 21 de febrero para 5 personas
+---
+
+Asistente: me arroja qué su direccion de correo electronico no es valida, podría verificarla por favor
+Usuario: felhixyovera gmail.com
+Asistente: ok ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 50 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Dice 993 soles Pero en la conversaci n me Confirmo por 927
+Usuario: Por qué la diferencia
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+---
+
+Asistente: debido a qué desea abonar el 50 , son promociones dependiendo de sí abona el 50 100 cómo se indic en la cotizacion
+Usuario: Ok. Otra consulta nosotros estamos llendo de lima a piura
+Usuario: Osea seria menos Me podr a explicar porfa. Talvez me estoy equivocando
+Usuario: Hay alguna forma de hacer yape O plim
+Asistente: no tenemos yape ni plim, Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel
+Usuario: Entonces más tarde le ago la tansferencia
+Asistente: Jose buenas tardes, Recuerde realizar el pago el d a de HOY del 50 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Este mensaje me.sale de.interbank
+Asistente: Verifique, sí está colocando el número de cuenta del mismo banco, o sí debe colocar el Codigo interbancario.
+---
+
+Usuario: Es de interbank a interbank Intentare desde bcp
+Usuario: Le confirmo
+Asistente: si, son las mismas cuentas de hace 20 a os nos comenta.
+Usuario: ahí está abonado el 50
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Ok. Estamos en contacto
+---
+
+Usuario: Hola ustedes se ubican en vichayito Deseo opciones para hospedarme dos adultos y una ni a
+Usuario: Me podr a pasar opciones y precios por favor
+Asistente: Nos encontramos en la zona privada, al final de pocitas e inicio de vichayito en medio de ambas playas, a unos 15 min aprox en mototaxi del centro de M ncora Nuestra direcci n exacta es Antigua Carretera Panamericana km. 1213 Balneario Las Pocitas, M ncora 20840. Entre las playas de Pocitas y Vichayito en los distritos de M ncora y rganos, departamento de Piura, al norte del Per . Link de Google Maps https g.page HotelPenaLindaBungalows qu fechas desea cotizar
+Usuario: 27 febrero al 2 marzo
+Asistente: qué edad tiene la ni a para cotizarle por favor
+Usuario: 6 a os
+Asistente: Del 27 al 2 de marzo
+---
+
+Asistente: Bungalow piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: tiene fotos
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad
+Usuario: Disculpe la cama de q plaza es, es cómo la foto cama y m s 1 camarote
+---
+
+Usuario: Porfa me comenta para decidir
+Asistente: sí la cama es Queen y las del camarote son de plaza y media.
+Usuario: consulta esa es foto de la habitación qué reservaria tendrá fotos del ba o
+Usuario: es segundo piso verdad
+Usuario: aya entonces en la habitaci n viene incluido cama queen y camarote de plaa y media
+Usuario: me confirma porfa
+Asistente: sí correcto. Busco las fotos y le env o. Costo para 3 personas.
+Usuario: el bungalow tiene ba o privado
+Asistente: Claro.
+---
+
+Asistente: Ya le env o. Un momento
+Asistente: Disponemos de Bungalows en segundo piso. Cercanos a la piscinas
+Asistente: sí correcto sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100
+---
+
+Usuario: Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: es el unico disponible verdad
+Usuario: Fecha de entrada 27 02 25 Fecha de salida 02 03 25
+Asistente: Nombres y apellidos del titular Melody Michelle Kelly Lora Escobedo
+Usuario: N celular DNI 72939912 Correo mloraer gmail.com Lugar de dónde nos visita Lima Reserva abonando el 50 o el 100 100
+Usuario: sólo una ultima consulta es segundo piso quisiera saber qué tan cerca está a la playa o pisciina
+---
+
+Asistente: también tenemos disponibles en primer piso, con salida a la arena, son un poco más costosos desea cotizarlo
+Usuario: tienen vista al mar me puede cotizar
+Usuario: con fotitos porfa
+Asistente: si, todos nuestros bungalows tienen vista al mar
+Asistente: Del 27 al 2 de marzo Bungalow primer piso con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+---
+
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad
+Usuario: el ba o comoe s
+Usuario: el descuento del 10 en consumos aplica sólo una vez o las veces qué estemos hospedados me puede pasar la foto del ba o de ese primer piso para definir
+Asistente: Las veces de la estadía
+Asistente: Estimado disculpe estoy agarrando turno de mi compa era y el bungalow ofrecido en primer piso ya fue tomado sólo dispongo el ofrecio en piso superior
+---
+
+Usuario: ok me da ese para cancelar por favor
+Asistente: ok perfecto entonces le reservo
+Usuario: sí por favor aquí están mis datos
+Asistente: ok perfecto ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+---
+
+Usuario: ahora lo veo estoy terminando una reunion de trabajo
+Asistente: Le adjunto nuestros PDF de taxis y tours
+Usuario: mancora travel.pdf
+Usuario: a qué correo me envio porqué no me llega ya me lleg
+Usuario: Me pasa la carta del restaurante por favor
+Asistente: Carta Pe a Linda Bungalows (4).pdf
+Asistente: por favor podría enviarnos una foto del voucher dónde se visualice el monto abonado.
+Asistente: ya le confirmo
+Asistente: ya le confirmo.
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+---
+
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Una consulta aceptan yape o tarjeta en restaurante y bar
+Asistente: sí aceptamos tarjetas yape no
+Usuario: Est en el segundo piso verdad
+Asistente: Siii correcto, 2do piso sí correcto
+Asistente: Holaa, Buen d a Te comunicaste con el Hotel Pe a Linda Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: - Fecha Exacta - Cantidad de personas - sí hay ni os incluir edades
+---
+
+Usuario: Para el verano solicitamos m nimo 2 noches
+Usuario: Para 4 adultos dos noches 19 y 20
+Asistente: Del 19 al 21 de febrero Bungalow piso superior y con vista al mar Balc n privado con vista al mar
+Usuario: 4 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+---
+
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Son dos habitaciones
+Usuario: Somos 4 adumtos adultos y queremos dos habitaciones una cama matrimonial y la otra habitaci n dos camas
+Asistente: la cotizada es una habitación para 4 personas cómo indico Con gusto le preparo la cotizaci n.en dos habitaciones
+Asistente: Del 19 al 21 de febrero
+Usuario: Hab 1 - 2 personas (matrimonial)
+Asistente: Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: Hab 2 - 2 personas
+Asistente: Bungalow Piso superior con vista al mar
+---
+
+Asistente: Balc n privado con vista al mar
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Matrimonial
+Usuario: Quiero hacer la reserva
+Usuario: Porfavor me responde
+Usuario: Buen d a quiero hacer la reserva C mo tengo qué hacer
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes
+---
+
+Usuario: Cantidad de personas sí hay ni os incluir edades
+Usuario: Para 4 adultos dos noches 19 y 20 Son dos habitaciones Somos 4 adumtos adultos y queremos dos habitaciones una cama matrimonial y la otra habitaci n dos camas Ya nos dieron informaci n estoy intentando desde ayer comunicarnos con ustedes
+Asistente: Holaa buenos dias, nuestro horario laboral culmina los sabados a mediodia y retomamos los lunes a primera hora sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+---
+
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Somos 4 adumtos adultos y queremos dos habitaciones una cama matrimonial y la otra habitaci n dos camas Ingreso 19 de febrero y salida el 21
+Asistente: sí correcto, cómo le cotizamos anteriormente. Serian las mismas ofertas. Nos indica los datos completos y sí desea reservar abonando con el 50 o el 100
+Usuario: Para 4adultos dos habitaciones una matrimonial y otra doble con vistA al mar desayunos y dem s ofrecidos este es el precio final verdad
+Asistente: Correcto, está promo es abonando hoy el 100
+Usuario: Ok podr a porfavor enviarme lo qué nos ofrece y las habitaciones son con balc n y vista al mar verdad
+---
+
+Asistente: Si, disculpe qué desearia qué le enviemos El día sabado le hemos cotizado, y le enviamos todos los detalles, de los bungalows, qué incluye el hotel etc.
+Asistente: Todos los bungalows del hotel poseen balc n privado con vista al amr.
+Usuario: A ver
+Usuario: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s
+Asistente: Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Esto es fuera de las playas del hotel ,,, ,
+Asistente: sí correcto, ya le envio los PDF y costos un momento Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismo medio hasta con MAXIMO 24 horas de anticipaci n. Los recogen en recepci n
+---
+
+Usuario: El hotel cuenta con bar Comedor
+Asistente: Si, restaurant - bar Le envio la carta Carta Pen a Linda Bungalows (4).pdf
+Usuario: Porfavor
+Asistente: Te recomendamos visitar nuestro Instagram https www.instagram.com hotelpenalindabungalows All podr s encontrar fotos y videos del hotel, las instalaciones, el restaurante, la playa y la piscina
+Usuario: Hay alg n descuento sí no deceo boleta
+Asistente: Boleta o factura es obligatorio por ley
+---
+
+Usuario: Entonces una vez cancelsdo el 100 nos emite y envia la boleta verdad
+Usuario: Me env a el n mero cuenta y nombre para hacer la transferencis A qu distancia se encuentra del aeropuerto de timbesy
+Asistente: sí al momento le enviamos la confirmaci n del hotel y la boleta o factura le llega de 24 a 48 horas a su correo
+Usuario: Y cu nto est el servicio de movilidad
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+---
+
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: es el más cercano Estamos a unas 2 horas aprox. Ya le envio los costos de taxis
+Usuario: Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes.
+Usuario: Buen d a quiero hacer la reserva
+---
+
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Fecha de entrada 19 de febrero Fecha de salida 21 de febrero
+---
+
+Usuario: A nombre de Zobeyda Luj n Loayza DNI 04647701 zlujan1 hotmail.com Los visitamos desde la provincia de ILO es en el sur
+Usuario: Voy aprovechar la oferta de abonar el 100 porciento Es cómo le indique 4 adultos una habitaci n matrimonial y la otra habitaci n doble
+Asistente: Ya le reservo
+Usuario: Por aqu me env a la reserva
+Asistente: La habitación matrimonial cotizada ya no está disponible, pero cómo ha reservado 2 bungalows, le brindaremos una en primer piso al mismo costo, estaria de acuerdo
+Usuario: Ya tendr a vistA al mar
+Asistente: Claro, estos son los más exclusivos del hotel.
+---
+
+Usuario: Ok est nien
+Usuario: Y la doble en qu piso est
+Asistente: está en segundo piso
+Asistente: me indica sí desea reservar
+Usuario: qué es esto disculpe no lo entiendo el cuadrito
+Asistente: serian los bungalows q se les asignarian
+Usuario: qué número
+Asistente: b3 y b11
+Usuario: El b3 es el matrimonial verdad
+Usuario: Es frente a la piscina Existe alg n tel fono para poder llamar y conversar
+---
+
+Asistente: Ningun bungalow queda frenta a las piscinas. Seria al lado. No manejamos atenci n telef nica por el respaldo de la comunicaci n ante cualquier inconveniente. qué dudas tendria
+Asistente: El cuadro es el croquis del hotel.
+Usuario: Ok sí porfavor qué no est al frente por qu el ruido de la piscina de los ocupantes molestar a de ser tan cerca
+Asistente: Si, cómo ve en el croquis, no existen bungalows frente a las piscinas Le colocare en el B2 qué está más alejado.
+Usuario: Ok est bien
+Usuario: Conf o qué me d unas bonitas habitaci n de descanso Quiero hacer la reserva
+Asistente: ok, ya le realizo la reserva
+---
+
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Realizar el pago ma ana temprano
+Usuario: Disculpe los cuartos no cuentan con aire acondicionado
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+---
+
+Usuario: Ya tengo la cotizaci n voy a efectuar el pago Disculpe los cuartos no cuentan con aire acondicionado
+Asistente: Hola buenos d as. No manejamos atenci n telef nica por el respaldo de la comunicaci n ante cualquier inconveniente.
+Asistente: No todos nuestros bungalows poseen aire acondicionado. Sin embargo podemos asignarle en bungalows con aire, tendr a un costo de 40 soles x noche adicional. Nos confirma.
+Usuario: Adicional
+Asistente: Si, correcto. Al cotizarle le mencionamos qué sólo podr a ventilador.
+Asistente: Sin embargo. Disponemos de Bungalows con aire por costo adicional.
+Usuario: Las habitaciones supongo contar n con ventiladores
+Asistente: Si, claro. C mo le indicamos al momento de cotizarle.
+---
+
+Usuario: Voy hacer la trasferencia
+Usuario: Una vez lo realice qué debo hacer
+Asistente: nos debe enviar el comprobante de pago por este medio
+Usuario: Ya est porfavor me confirma
+Usuario: Porfavor me confirma
+Asistente: ya le confirmo
+Usuario: Estar a la espera No me dijo su nombre con qui n estoy chateando
+Asistente: Adriana Alvarez
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+---
+
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Porfavor me env a cómo llegar Direcci n
+Asistente: Nos encontramos en la zona privada, al final de pocitas e inicio de vichayito en medio de ambas playas, a unos 15 min aprox en mototaxi del centro de M ncora Nuestra direcci n exacta es Antigua Carretera Panamericana km. 1213 Balneario Las Pocitas, M ncora 20840. Entre las playas de Pocitas y Vichayito en los distritos de M ncora y rganos, departamento de Piura, al norte del Per . Link de Google Maps https g.page HotelPenaLindaBungalows
+Asistente: Por favor, indicanos cómo podemos ayudarte el día de hoy. Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Usuario: 13 al 15 feb 2 adultos
+Asistente: Del 13 al 15 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortes a V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: Sigue vigente
+---
+
+Usuario: Para abonar el 100
+Usuario: Me pasar a la cuenta bancaria
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+---
+
+Usuario: Fecha de entrada 13 febrero 2025 Fecha de salida 15 febrero 2025
+Asistente: Nombres y apellidos del titular
+Usuario: Deivi Omar Vargas Plasencia N celular 76877743 Correo Dovp95 hotmail.com Lugar de dónde nos visita trujillo
+---
+
+Usuario: Reserva abonando el 100
+Asistente: ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Y tambi n me podr an brindar factura
+Asistente: sí claro, boleta o factura. Cuales serian los datos para la factura
+Usuario: Factura
+---
+
+Usuario: Mi Ruc Es Deivi Omar Vargas Plasencia
+Usuario: Y un favor podr a pagar ma ana mediod a porqué ahorita me queda un poco lejos el banco
+Asistente: No hay problema, por favor antes de mediodia ya agrego los datos de factura a su reserva.
+Usuario: Genial
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Asistente: buen d a ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Hola Me gustar a conseguir m s informaci n sobre esto
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+---
+
+Usuario: Entrada 01y 2 de febrero salida el 3 febrero 4 personas. 3 adultos un ni o de 7 a os
+Asistente: lamentablemente no tenemos disponibilidad para las fechas indicadas tenemos disponibilidad del 2 al 4 de febrero, funcionaria
+Usuario: Tienes tours qué m s ofrece
+Asistente: si, ya le envio nuestros tour disponibles Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismo medio hasta con MAXIMO 24 horas de anticipaci n. Los recogen en recepci n
+Asistente: desea cotizar
+---
+
+Asistente: Del 2 al 4 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 4 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: buenas tardes, en qué le podemos ayudar
+Asistente: No manejamos atenci n telef nica por el respaldo de la comunicaci n ante cualquier inconveniente.
+Usuario: No hay la fecha qué quiero, pero esto es tour por d a
+Usuario: Estoy interesada por la aventura bajo el agua
+---
+
+Asistente: sí claro. así no se hospede puede reservar el tour. sólo debe confirmarnos antes de reservar en qué hotel se hospedara para verificar el recojo.
+Usuario: A do de puedo comunicarme para toda consulta verbal
+Usuario: O dónde puedo comunicarme
+Asistente: por este medio gestionamos el tour, posteriormente le indicamos sus datos al encargado para qué se comunique con usted
+Asistente: Estimado cliente, para proceder con la confirmaci n de su reserva con nuestra agencia, por favor env enos los siguientes datos Nombre del tour Fecha del tour
+Usuario: Nombre de todos los hu spedes qué tomar n el tour DNI
+Asistente: Tel fono del titular
+Usuario: Al d a sólo se hace una sola actividad O se se puede hacer m s de 2 actividades
+Usuario: Me gustar a hacer m s de ina actividad
+---
+
+Asistente: se pueden hacer más de una actividad en un d a, se hacen por turnos sólo me indica cuales desear a realizar y verificamos qué no coincidan los turnos o horarios de los tours
+Usuario: Dame un momento aún no consigo hotel para reservar quiero para el 1 y 2 de febrero
+Asistente: ooh ok, nosotros disponemos del 29 al 31 y del 2 al 4
+Asistente: buenas tardes se nos ha desocupado un bungalow del 1 al 2 de febrero (solo una noche)
+Usuario: El costo por 3 adultos un ni o de 7
+Asistente: Del 1 al 2 febrero
+Usuario: Pisos superiores
+Asistente: Balc n privado vista al mar
+Usuario: 4 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50
+---
+
+Usuario: Y este precio es por las 4 perdonas verdad
+Usuario: Personas
+Asistente: sí correcto sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100
+---
+
+Usuario: Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Tomo el servicio
+Asistente: ok, nos indica sus datos para la reserva por favor
+Usuario: puedo abonar el 50
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular
+---
+
+Usuario: Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Entrada 01 y salida 02 de febrero Titular , Yeni cano hermosilla. DNI. 43253339 Mi correo no lo abro ,toda informaci n al wasaph
+Usuario: Quiero hacerle el pago por yape
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito yape no tenemos
+Usuario: Okok bcp entonces
+---
+
+Usuario: Pero toda informaci n sólo al wasap
+Usuario: Me pasa el n mero de cuenta y nombre por favor para hacer el pago Instrucciones de pago.pdf
+Asistente: Normalmente la informaci n se env a v a correo electr nico de forma automatica, estaba haciendo la excepci n de enviarle por este medio
+Usuario: El n mero y nombre
+Asistente: booking_40847.pdf
+Asistente: acá están los metodos de pago, número de cuentas bancarias
+Usuario: Pagar todo 411.18
+Asistente: ok, hago el ajuste en su reserva booking_40847 (2).pdf
+Asistente: ya le confirmo
+---
+
+Asistente: booking_40847 (1).pdf
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo Estimada estaremos atentos sí desea reservar el tour
+Usuario: Es tal cuál cómo la muestra verdad
+Asistente: sí los bungalows son estandar cómo se apreica en las fotos, cama queen camarote, balc n privado con vista al mar
+Usuario: Puedo reservar un d a antes Lo seamos
+Asistente: sí con minimo 24 horas
+Usuario: Hay descuentos
+---
+
+Asistente: Los taxis y los tour no tienen descuento
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Holaa quedamos atentos a sus fechas de inter s y cuantas personas ser an para brindarle la mejor oferta
+Usuario: Buenas tardes aún no me llaga la boleta del pago qué hice por una noche
+Asistente: Hola buenas tardes un momento para verificar
+Asistente: hola buenas tardes booking_40847 (2).pdf
+---
+
+Usuario: Buenas tardes, Precio de las habitaciones Somos 4 adultos y una beb de 11 meses, Para el viernes hasta el domingo b 3 d as 2 noches
+Asistente: Lamentablemente no contamos con disponibilidad. Podemos ofrecerle del 26 al 28 de enero. funcionaria
+Usuario: Buen d a, est bien esa fecha
+Usuario: cuánto estar a costando la habitaci n y en qu piso est
+Asistente: Del 26 al 28 de enero Bungalow piso superior con vista al mar Balc n privado con vista al mar
+---
+
+Usuario: 4 personas infante Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Bac n
+Usuario: Cambio de planes, vamos a ser 3 adultos ya no 4 Y la beb
+Asistente: Del 26 al 28 de enero
+---
+
+Asistente: Bungalow piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas infante Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion mancora traver.pdf
+---
+
+Usuario: Hola, buen d a
+Usuario: N mero d cuenta o yape
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita
+---
+
+Usuario: Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Domingo 26 Martes 28 Karla Mendoza Abad 47421829 renan1523 hotmail.com Piura Con el 100 tal cómo indica la promoci n
+Asistente: ya le reservo
+Asistente: Disculpe, la qué le iba a reservar, recargu sistema y lamentablemente ya no est ya disponible.
+---
+
+Asistente: sólo nos quedan disponibles en primer piso, son un poco más costosas, funcionaria
+Usuario: cuánto m s
+Asistente: Del 26 al 28 de enero Bungalow primer piso y con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas infante Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Son 160 soles m s
+Asistente: si, le puedo ofrecer un 35 de descuento
+Usuario: Ya ps
+---
+
+Asistente: desea reservar con está promocion
+Asistente: ok, ya le realizo su reserva
+Asistente: para las fechas indicadas sólo disponemos de un bungalow qué albergan hasta 4 personas, el cotizado para usted es el ultimo disponible
+Usuario: Ok, entiendo
+Asistente: me indica sí desea reservar
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo
+---
+
+Usuario: Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Usuario: 26 enero 28 enero Karla Mendoza Abad 47421829 renan1523 hotmail.com Sullana
+---
+
+Asistente: ok, ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: Le adjunto nuestros PDF de taxis y tours Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia
+---
+
+Usuario: Okiiii
+Asistente: Hola Karla buenos d as. A n se encuentra o interesada en su reserva o procedemos con la anulaci n
+Usuario: En caso no recibamos respuesta ser anulada por falta de pago. El d a de hoy estamos en horario laboral hasta las 11 am
+Asistente: Reserva anulada por falta de pago
+Usuario: Hola buenos d as disculpe la molesta tiene disponibilidad para este fds S bado domingo. 3 adultos y un beb de 1 a o
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: s bado 01 de febrero
+---
+
+Usuario: lunes 03 de febrero 3 adultos 1 beb de 1 a o
+Asistente: Del 1 al 3 de febrero Bungalow primer piso, con salida a la arena y con vista al mar Balc n privado con vista al mar
+Usuario: 3 personas infante (Los ni os menores de 4 a itos no pagan adicional por estad a, sólo sí desean desayuno adicional y se paga directamente en el hotel) Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+---
+
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Ya est bien, abonar el 100
+Asistente: Le pedimos por favor qué nos detalle cuantas personas ir an en cada habitaci n para poder cotizar
+Usuario: A continuaci n PRESENTAMOS UN EJEMPLO de c mo debe indicarnos la distribuci n de habitaciones Habitaci n 1 - 2 adultos 1 ni o de 4 a os Habitaci n 2 - 4 adultos
+Usuario: Somos 3 adultos y una beb de 1 a o
+Usuario: Habitaci n 1 3 adultos 1 ni a de 1 a o
+Asistente: aún está disponible está cotizaci n
+---
+
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: S bado 01 de febrero lunes 03 de febrero
+---
+
+Usuario: Karla Mendoza Abad 47421829 renan1523 hotmail.com Sullana
+Asistente: ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+---
+
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Buenas tardes
+Usuario: Informaci n del 02 01 2025 al 04 01 2025
+Asistente: Buen día para cuantas personas desea cotizar sí hay ni os por favor indicar edades
+Usuario: Buen días 2 personas ( pareja)
+Asistente: Del 2 al 4 de enero
+Usuario: Piso superior
+Asistente: Balc n privado con vista al mar
+Usuario: 2 personas
+---
+
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Quedamos atentos en caso desee reservar
+Usuario: Ese precio debo pagar ahora o la mitad
+Asistente: está promo tal y cómo se indica es abonando el 100 sí desea reservar con el 50 aplicaria está promo
+---
+
+Usuario: Comprendo
+Usuario: Buenas tardes Cotizacion del 02 al 04 de enero del 2024 Para una pareja
+Asistente: Del 2 al 4 de enero 2025
+Usuario: Primer piso con salida a la playa balcón privado vista al mar 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+---
+
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. VALIDO ABONANDO HOY EL 50
+Asistente: BLACK FRIDAY POR POCAS HORAS
+Usuario: Buenos d as, dónde se encuentra el lugar
+Asistente: Nos encontramos en la zona privada, al final de pocitas e inicio de vichayito en medio de ambas playas, a unos 15 min aprox en mototaxi del centro de mancora
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Usuario: Mes enero 2 personas
+Asistente: Indiquenos por favor fecha exacta para ver disponibilidad y cotizar
+Usuario: Del 02 al 04 01 2025
+Asistente: Del 2 al 4 de enero 2025
+Usuario: Primer piso con salida a la playa balcón privado vista al mar 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50
+---
+
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. VALIDO ABONANDO HOY EL 50
+Asistente: BLACK FRIDAY POR POCAS HORAS
+Usuario: Buenos días Favor informaci n Del 02 al 04 de enero del 2024
+Asistente: Para cuantas personas desea cotizar sí hay ni os por favor indicar edades
+Usuario: De 44 y 45 a os
+---
+
+Asistente: Del 2 al 4 de enero 2025
+Usuario: Primer piso con salida a la playa balcón privado vista al mar 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. VALIDO ABONANDO HOY EL 50
+---
+
+Usuario: Es el precio final
+Usuario: Y sobre esa promocion q días aplica
+Usuario: https www.facebook.com share v 1XQfeFYewP
+Asistente: Buen día sí se refiere de diciembre, es valida en diciembre
+Usuario: La promo es desde 182 soles x noche para 2 personas de domingo a jueves (salida) o desde 219 soles x noche para 2 personas en fines de semana de diciembre Es valido sólo en pisos superiores hasta el 26 (salida) de diciembre
+Asistente: La cotizaci n brindada es para enero
+Usuario: Buenos días
+Usuario: Q fechas de diciembre Aplica
+Asistente: Es valido sólo en pisos superiores hasta el 26 (salida) de diciembre
+---
+
+Usuario: Y del 02 al 04 01 2025
+Asistente: Seria la cotizaci n brindada anteriormente El día de hoy estamos con Cyber monday
+Asistente: CYBER MONDAY sólo POR HOY
+Usuario: Hola Quiero m s informaci n. Hola qué fechas
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: Del 02 al 04 de enero para 2 personas
+---
+
+Asistente: Del 2 al 4 de enero 2025
+Usuario: Primer piso con salida a la playa balcón privado vista al mar 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. VALIDO ABONANDO HOY EL 50
+---
+
+Usuario: Y del 14 al 16 de febrero Para 2 personas
+Asistente: Del 14 al 16 de febrero
+Usuario: Pisos superiores balcón privado vista al mar 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50 VALIDO ABONANDO HOY EL 50
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+---
+
+Usuario: Fecha Exacta indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: Del 2 al 4 de enero
+Asistente: Hola buen día Lamentablemente no hay disponibilidad sin embargo dispongo del 04 al 06 desea cotizar
+Usuario: Y por un día es posiblw
+Asistente: 1 noche tenemos disponible del 2 al 3 de enero. funcionaria
+Usuario: El prwcio
+Asistente: Del 2 al 3 de enero
+Usuario: Pisos superiores 2 personas - 1 noche
+---
+
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortes a VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta indicando el mes Cantidad de personas sí hay ni os incluir edades
+---
+
+Usuario: Del 02 al 04 enero 2 personas
+Asistente: Nos queda disponible sólo 1 noche del 2 al 3 de enero. funcionaria
+Usuario: Precio La ubicación del hotel
+Asistente: Del 2 al 3 de enero
+Usuario: Pisos superiores 2 personas - 1 noche Incluye desayunos 1 ronda de chilcano pisco de cortes a VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+---
+
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad. VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nos encontramos en la zona privada, al final de pocitas e inicio de vichayito en medio de ambas playas, a unos 15 min aprox en mototaxi del centro de mancora
+Usuario: Una consulta, sí la reserva termina el 03 a las 12pm, es posible quedarse en la playa o piscina, o incurre en alg m costo
+Asistente: sí claro Puede quedarse en las instalaciones del hotel luego de haber realizado el check-out de la habitaci n no hay problema, y no se le cobraria nada adicional
+Asistente: Quedamos atentos en caso desee reservar
+Usuario: Le queda disponible del 2 al 4 de enero
+Asistente: Buenas noches, sí
+Asistente: por una noche 376.8 (abonando el 100 ) y por 2 noches 753,6 soles (abonando el 100 )
+---
+
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: cuándo dice por su ubicacion, cuál seria la preferencia
+Asistente: Si, Es de primer piso, cerca de la arena.
+---
+
+Usuario: Y de la playa
+Asistente: C mo se ve en la foto.
+Usuario: Y respecto a la piscina q tan lejoa est
+Asistente: El bungalow 2
+Usuario: Es el nico disponible.
+Asistente: Croquis del hotel.
+Usuario: Ok, muy amable
+Usuario: Del 02 al 04 de enero 2024
+Usuario: Perdon del 2025
+Asistente: Buen día Para cuantas personas desea cotizar
+Usuario: Buen día
+---
+
+Usuario: Para 2
+Asistente: Del 2 al 4 de enero
+Usuario: Piso superior
+Asistente: Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, Sunset party en yate y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto . Tu satisfacci n es nuestra prioridad.
+---
+
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: La habiatacion ae encuebtra ubucada pq parte del hotel
+Asistente: En el segundo piso. Es la ultima disponible
+Usuario: Con vista hacia dónde
+Asistente: Todas las habitaciones tienen balcón privado vista al mar
+Usuario: Buenos días me.confirma pfvr
+Asistente: Del 11 al 13 de enero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia
+---
+
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: Y para esas fechas..
+Asistente: Seria el mismo costo brindado
+Usuario: Ok. Genial
+Usuario: Buenas tardes
+Usuario: Cotizaxion para una reserva del 12 al 14 de febrero
+Usuario: Buenos días
+Usuario: Cotizaxion para una reserva del 12 al 14 de febrero
+Asistente: Del 12 al 14 de febrero Bungalow Piso superior con vista al mar
+---
+
+Asistente: Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Reserva del 14 al 16 de febrero
+Asistente: Del 14 al 16 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas
+---
+
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Nada menos
+Usuario: Es el precio final
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita
+---
+
+Usuario: Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: Quedamos atentos a sus datos en caso desee reservar
+Usuario: Hola buenos días
+Usuario: Reserva del 14 al 16 02 Para una pareja
+Asistente: Del 14 al 16 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia
+---
+
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Es el precio final
+Usuario: Una consulta y sobre el precio de la pagina de facebook q se ala 265.00
+Asistente: así es La promo es v lida para 2 personas x noche de domingo a jueves en bungalows de piso superior.
+Usuario: El medio de pago
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+---
+
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: sí hubieta un precio final menor al indicado
+---
+
+Asistente: ese seria el precio final con el 30 de descuento
+Usuario: Ok. Comprendo
+Usuario: Las fotos se alan q es un bungalow no es una habitación matrimonial, me confirma
+Asistente: es bungalows cama queen camarote, le hemos cotizado cómo un matrimonial para 2 personas, es igual qué un matrimonial pero con un camarote extra, es más amplio y comodo. los matrimoniales son bastante peque os, por eso sólo tenemos 3 de 26 bungalows tenemos matrimoniales disponibles para la fecha indicada pero en primer piso, son un poco más costos desea cotizarlos
+Usuario: Comprendo
+Usuario: Buenos días
+Asistente: Hola buenos días
+Usuario: Reserva del 14 al 16 de febrero para una pareja
+Usuario: Me confirma
+Asistente: Hola, sí ya le hemos cotizado.
+---
+
+Asistente: sí desea reservar nos indica los datos completos y cu l de las 2 ofertas desea tomar.
+Usuario: Me confirma el precio
+Asistente: 14 al 16 de febrero, dos personas
+Usuario: Lo ubico
+Usuario: 630.30 588.28
+Asistente: son 2 promos, una abonando sólo el 50 el restante en el hotel, y la ultima abonando el 100
+Usuario: Comprendo, hasta cuándo va estar la promocion
+Usuario: La ubicación del lugar exactamente
+Asistente: Nos encontramos en la zona privada, al final de pocitas e inicio de vichayito en medio de ambas playas, a unos 15 min aprox en mototaxi del centro de M ncora Nuestra direcci n exacta es Antigua Carretera Panamericana km. 1213 Balneario Las Pocitas, M ncora 20840. Entre las playas de Pocitas y Vichayito en los distritos de M ncora y rganos, departamento de Piura, al norte del Per . Link de Google Maps https g.page HotelPenaLindaBungalows
+---
+
+Asistente: por el día de hoy, es por tiempo limitado
+Usuario: Le enviaré los datos
+Usuario: tendrá fotos actualizadas o video reciente del lugar, le agradecer brindar
+Asistente: Te recomendamos visitar nuestro Instagram https www.instagram.com hotelpenalindabungalows All podr s encontrar fotos y videos del hotel, las instalaciones, el restaurante, la playa y la piscina
+Usuario: 14 02 2025 16 02 2025 Mireya Lizet Lab n Gonzales 40682071 mirelago09 hotmail.com
+---
+
+Usuario: Piura
+Asistente: ya le reservo
+Usuario: Para definir
+Asistente: ooh ok ok, ya le envio la cotizacion
+Asistente: Del 14 al 16 de febrero Bungalow primer piso con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortes a V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Ok, pero todas as habitación son con vista directa a la playa
+---
+
+Usuario: Voy a optar por lo primeeo
+Asistente: si, todos nuestros bungaloes son cos vista al mar
+Usuario: Tomare esta, el.precio final es S .588.28 cancelando el 100 , me confirma
+Asistente: desea reservar así en piso superior, 2 personas del 14 al 16 de febrero, correcto ok, procedo a reservarle
+Usuario: Pfvr me.envia el link, pagare xon tarjeta
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: le envio nuestros PDF con los servicios adicionales q ofrecemos.
+---
+
+Asistente: Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismo medio hasta con MAXIMO 24 horas de anticipaci n. Los recogen en recepci n Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes. Carta Pen a Linda Bungalows (4).pdf
+Usuario: Me da un momento ya le env o
+Usuario: Ya vi el correo
+Usuario: Ya le enviaré
+Usuario: Le envi , me confrma
+Asistente: ya le confirmo
+---
+
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Lo reviso y le confirmo Ok, el descuento cuánto es en el restaurant
+Asistente: Perfecto 10 de descuento en toda la carta
+Usuario: Ok, graciaa
+Usuario: Una consulta sí bien la entrada es a laa 3pm, permite el ingreso antes
+Asistente: sí claro, puede llegar a la hora qué desee para disfrutar de las instalaciones hasta la hora de ingreso al bungalow
+Usuario: Desde q hora excamente
+Asistente: sí desea llegar en la ma ana puede hacerlo, para disfrutar de las instalaciones, hasta la hora de ingreso al bungalow qué sí es las 3 pm
+---
+
+Usuario: Ok, q bueno.. genial
+Usuario: Buenos dias, una consulta, tengo una reserva cómo tal, es posible incluir a dos srtas De ser posible, Cu nto seria el recargo, considerando q es un Bungalow se tendria q hacer una reserva nueva, agradecer su respuesta
+Asistente: hola buen dia. Ya verifico su reserva
+Usuario: Debe abonar el 100
+Usuario: Ok, hasta cuándo
+Asistente: hasta 48 horas de anticipaci n
+Usuario: Considerando la fecha de la reserva verdad, q es del 14 02
+Asistente: sí correcto
+Asistente: Adriana Alvarez, sí por ac somos varios agentes pero vemos lo mismo no se preocupe.
+Usuario: Bien, le agradezco
+Usuario: Holaa qué tal les saluda Fiorella
+---
+
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: estaré en piura el jueves 30 hasta el sabado 1 de febrero, somos dos personas, me indica el precio por favor
+---
+
+Usuario: deseo una habitaci n matrimonial con vista al mar, me envia las opciones por favor
+Asistente: Del 30 al 1 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+---
+
+Usuario: buenas noches, me encanta esas opciones, me indica sí también nos recogerian del aeropuerto hasta el hotel por favor
+Usuario: buenas tardes
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Hola buenos días Nos encontrabamos fuera de horario. La reserva sólo incluye lo mencionado en la cotizaci n, sin embargo también disponemos de servicio de taxi por costo adicional.
+Asistente: Le envio los detalles
+Usuario: Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+---
+
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes.
+Usuario: Buenas tardes, deseo reservar el hospedaje para 3 días y 2 noches Fecha 30, 31 y 1 febrero Me gustaria reservar está habitaci n, la deseo frente al mar y con cama matrimonial por favor
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo
+---
+
+Usuario: Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: para las fechas indicadas disponemos sólo bungalows cama queen camarote, le hemos cotizado cómo un matrimonial para 2 personas, es igual qué un matrimonial pero con un camarote extra, es más amplio y comodo. los matrimoniales son bastante peque os, por eso sólo tenemos 3 de 26 bungalows
+Usuario: está bien, me indicar a el precio por favor, es el mismo costo verdad
+Usuario: Fecha de entrada Juves 30 de enero (10 11 am) Fecha de salida Sabado 01 de febrero (12 mediodia)
+Asistente: Nombres y apellidos del titular Fiorella Pitot Ceopa
+Usuario: N celular DNI 70504068 Correo danaepitot hotmail.com
+---
+
+Usuario: Lugar de dónde nos visita Lima
+Asistente: Desea abonar con la promo abonando el 50 o el 100
+Usuario: deseo depositar en 50 por ciento por favor
+Asistente: oh ok perfecto seria está promo. Ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 50 para confirmar su reserva y acceder a todos los descuentos
+Usuario: está bien, la habitación se encuentra frente al mar
+---
+
+Asistente: TODOS NUESTROS BUBGALW está FRENTE AL MAR
+Asistente: sí Claro seria con este descuento
+Usuario: easta bien, me refiero con vista al mar, a la terraza
+Asistente: sí claro
+Usuario: está bien, en ese caso, deseo depositar el monto completo por favor
+Asistente: ok un momento por favor
+Asistente: Listo verifique su correo Le adjunto nuestros PDF de taxis y tours Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas
+---
+
+Asistente: Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia
+Asistente: Desearia cambiar su reserva con el descuento del 100
+Usuario: sí por favor
+Asistente: ya lo modifico
+Asistente: por favor verifique su correo
+Usuario: buenas tardes, se realizo el pago, me confirma por favor
+Usuario: también quiero programar el recojo en taxi en el aeropuerto de piura por favor
+Usuario: mi vuelo sale de lima a las 7 10am y estaré llegando 8 50am
+Asistente: ya le confirmo Para reservar la movilidad debe indicarnos los siguientes datos.
+Usuario: Aeropuerto
+---
+
+Usuario: Destino
+Asistente: Nombre del titular
+Usuario: teléfono Correo Aerol nea número de Vuelo Fecha de llegada Hora de llegada Cantidad de personas Una vez registrada su reserva le enviaremos un PDF con las instrucciones de pago
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+---
+
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: buenas noches
+Asistente: Hola buenas noches en qué le podemos ayudar
+Usuario: le comento qué deseo el servicio de taxi por favor qué nos puedas recoger del aeropuerto hasta el hotel
+Usuario: para el aeropuerto de piura por favor
+Usuario: somos 2 personas
+Asistente: si, serian 280 soles Desea reservarlo
+---
+
+Usuario: Nombre del titular Fiorella Danae Pitot teléfono Correo danaepitot hotmail Aerol nea LATAM número de Vuelo Fecha de llegada 30 02 25 Hora de llegada 8 50 am Cantidad de personas 2 le envio los datos sí por favor
+Asistente: ok. Un momento por favor.
+---
+
+Usuario: Dirianny Betzabeth Ascanio Martinez. Mi n mero de cuenta BCP Soles es 82 Mi n mero de cuenta interbancaria es 19708250 Mi cuenta BBVA CUENTA INDEPENDENCIA BBVA N mero de cuenta 0011-05 CCI 199115-53
+Asistente: Una vez realizado el pago, env enos el comprobante por este medio. Quedamos atentos a cualquier consulta.
+Asistente: la fecha de llegada es 30 01 2025 o 30 02 2025 Para ma ana correcto
+Usuario: 30 01 25
+Asistente: De acuerdo, por favor nos envia el pago antes de las 9 qué terminamos turno.
+Usuario: sí ahora realizo el deposito
+Usuario: listo, me confirma por favor
+Asistente: ya le confirmo.
+---
+
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Hemos recibido su pago correctamente y su reserva para el taxi ha sido confirmada para el d a de ma ana
+Usuario: sí tiene alguna consulta adicional o necesita asistencia, no dude en contactar al WhatsApp de la agencia.
+Asistente: Taxi Chino 2
+Asistente: por favor, podría indicarnos el número de vuelo
+Usuario: dónde reviso eso
+Asistente: Le van a contactar para guiarle. El sr Cipriano.
+---
+
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: 23 de este mes Mi ni o de 5a os y yo su madre
+Asistente: Del 23 al 24 de enero Bungalow primer piso,con salida a la arena y con vista al mar Balc n privado con vista al mar
+Usuario: 1 persona infante
+---
+
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 100
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas (Los ni os menores de 4 a itos no pagan adicional por estad a, sólo sí desean desayuno adicional y se paga directamente en el hotel)
+Usuario: Y sí quisiera para el d a 28 de enero hasta el 29 de enero
+Usuario: porqué nosotros somos de chiclayo Y tendr amos qué estar viajando 10 u 11 am del d a 28
+Usuario: Yo estar a transfiriendo el d a 24 o pagando directamente con tarjeta ese mismo d a 28
+Usuario: Lo qué s quisiera qué me gu en en cuánto llegara a piura qué bus debo coger para ir hasta pe a linda
+Usuario: Ya est bien no hay problema
+Asistente: No le podemos asegurar qué haya disponibilidad cuándo llegue al hotel
+---
+
+Asistente: es el unico espacio y seguiremos ofreciendolo
+Usuario: Uhmmmmm
+Asistente: Debe tomar un bus desde dónde se encuentre hasta mancora, Desde mancora un mototaxi hasta el hotel. sólo debe indicar el nombre del hotel.
+Usuario: Entonces no me da la seguridad de reservarme esos d as
+Asistente: sí desea reservar debe pagar el mismo dia. Es decir sí quiere reservarlo hoy debe pagar hoy.
+Usuario: Yo podr a pagar la reserva el d a 23 qué es el d a qué me depositan mi sueldo
+Asistente: Ok, podría consultarnos el mismo 23, ya qué las reservas deben pagarse maximo 24 horas despues de reservadas. Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Ok perfecto, el d a 23 me comunico con ustedes para hacer el pago
+---
+
+Usuario: Buenas noches
+Usuario: Una consulta El oleaje ha bajado
+Asistente: El oleaje anomalo es medianamente normal en está poca, duro un día y afortunadamente ya todo mancora se encuentra operando con normalidad. Por suerte nunca afecto el hotel y siempre estuvimos operando con normalidad.
+Usuario: Buenos tardes quiero hacer la reserva para el d a 28
+Asistente: Nos indicas para cuantas personas disculpe por una noche lamentablemente ya no está disponbile sólo a partir de 2 noches
+Usuario: Y de 29 a 30 tampoco
+Asistente: una noche, disponemos del 27 al 28
+---
+
+Asistente: siii del 29 al 30
+Usuario: Ya ese d a entonces
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+---
+
+Usuario: Entonces pago los 323.40
+Usuario: Los puedo hacer ahorita por Yape
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Asistente: sí correcto, para 2 personas abonando el 100
+Usuario: A qu n mero yapeo
+Asistente: No tenemos yape.
+Asistente: Nos indica los datos completos para reservarle.
+Usuario: Angela Coronado Vinces DNI 42345386
+Asistente: correo y teléfono
+---
+
+Usuario: ange4234 hotmail.com
+Asistente: ya le reservo
+Usuario: A dónde debo de transferir el pago
+Asistente: Debe seguir los pasos qué le hemos indicado arriba, primero estamos registrando la reserva, luego al correo llegara el email de instrucciones con las cuentas y detalles de su reserva. Estoy registrando la reserva, por favor espere un momento.
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: Le adjunto nuestros PDF de taxis y tours
+Usuario: Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+---
+
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion
+Usuario: No me ha llegado a n ning n correo No en spam
+Asistente: ange4234 hotmail.com
+Asistente: verifique su correo para reenviarle
+Usuario: No me ha llegado nada Reenvie por favor
+Asistente: ya verifico
+---
+
+Asistente: Verifique por favor se lo envie de nuevo
+Usuario: Ya me
+Usuario: Es un ni o y un adulto Ahorita hago la transferencia
+Asistente: el ni o por tener 5 a os es tomado cómo adulto
+Asistente: ya le confirmo
+Usuario: Y quisiera este paseo
+Asistente: Para reservar el tour debe indicarnos los siguientes datos. El tour se reserva con el 100 a las cuentas de la agencia Nombre del Tour
+Usuario: Fecha Cantidad de personas
+---
+
+Usuario: Ni os (con edades) Nombre y apellido de los pasajeros DNI de los pasajeros número de contacto Correo Una vez registrada su reserva a su correo le llegaran las instruccionesde pago
+Usuario: En un. Momento lo hago
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Asistente: Quedamos atentos en caso desee reservar el tour
+---
+
+Usuario: Para reservar el tour siguientes datos.
+Asistente: Nombre del Tour paseo costero
+Usuario: Fecha 30 de enero, 9y30 am Cantidad de personas 2 1 ni o de 5 a os 1 adulta Nombre y apellido de los pasajeros Ni o Juan Angel Tello Coronado DNI 91464856 Adulto Angela Coronado Vinces DNI 42345386
+---
+
+Usuario: número de contacto Correo ange4234 hotmail.com
+Asistente: un momento ya le reservo
+Asistente: Ya hemos registrado la reserva del tour
+Usuario: Dirianny Betzabeth Ascanio Martinez. Mi n mero de cuenta BCP Soles es 82 Mi n mero de cuenta interbancaria es 19708250 Mi cuenta BBVA CUENTA INDEPENDENCIA BBVA N mero de cuenta 0011-05 CCI 199115-53
+Asistente: Una vez realizado el pago, env enos el comprobante por este medio. Quedamos atentos a cualquier consulta.
+Asistente: El monto a pagar por 2 personas para el tour Costero es de 180 soles.
+Usuario: Al realizar el pago nos lo envia por está v a
+Usuario: De aqu estoy haciendo la transferencia
+---
+
+Asistente: Noa env a en vaucher para confirmar el tour
+Usuario: Ma ana hago la transferencia temprano del tour
+Asistente: De acuerdo quedamos atentos. Antes de mediod a ya qué terminamos turno a esa hora y retomamos los lunes a primera hora
+Usuario: Ah est verifique De piura a Mancora cu nto tiempo hay cómo somos de chiclayo Quiero saber el tiempo
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Asistente: Hola buen día ya le confirmo
+Asistente: Estimado(a) Angela Coronado Vinces Hemos recibido su pago correctamente y su reserva para el tour PASEO COSTERO ha sido confirmada para el d a Fecha 30 DE ENERO del tour.
+Usuario: sí tiene alguna consulta adicional o necesita asistencia, no dude en contactar al WhatsApp de la agencia N mero de la agencia .
+Asistente: Elvis Mancora Travel
+Usuario: Buen d a cu nto de piura a mancora
+Asistente: El aeropuerto más cercano es el de talara o tumbes a unas 2 horas aprox. Piura le queda más lejos a unas 3 horas y media aprox.
+Usuario: Yo voy por bus
+Asistente: Tiene 2 opciones. Puede irse en bus a mancora y de alli tomar un mototaxi al hotel (estamos a 10 minutos del centro de mancora)
+Usuario: porqué viajamos de aqu de chiclayo el d a 29 a las 8y15 am
+---
+
+Usuario: Buenas tardes Estamos a una hora y 30 de llegar a mancora
+Usuario: Y de ah al hospedaje
+Asistente: Hola buenas tardes Ok perfecto le esperamos.
+Usuario: Quisiera saber sí ah tienen restaurant
+Asistente: sí claro. sí disponemos.
+Usuario: Podr a enviarme la carta para ir escogiendo
+Usuario: Y tb quisiera saber sí cerca de ah hay tienda para comprar ropa de playa
+Asistente: Recepcion Hotel Pe a Linda Puede solicitarla con recepci n y hacer el pedido de una vez por esa v a
+---
+
+Usuario: Y sobre esto
+Asistente: En m ncora. En la zona de hoteles no.
+Usuario: A dónde podr a ir
+Asistente: En el pueblo en m ncora encontrar bastantes opciones. Est n en todos lados.
+Usuario: A cu nto tiempo est del hospedaje
+Asistente: 15 minutos en Mototaxi
+Usuario: Buenas tardes Ya estoy en mancora Me dije el mototaxista
+Usuario: qué de aqu a pe a linda es 25 minutos
+Asistente: estamos a unos 15 min aprox en mototaxi del centro de M ncora
+---
+
+Usuario: Disculpe c mo hago para hacer pedido de delivery debido a qué a está hora ya no hay servicio en restaurant
+Asistente: Debe coordinarlo con el restaurante al qué desee pedir.
+Usuario: Pero qu restaurantes hay aqu
+Asistente: Puede googlear los restaurantes qué esten disponibles en mancora. A está hora no sabria decirle cuales estarán abiertos. Puede consultar con recepci n a ver sí tienen algun contacto
+Usuario: La Srta qué me dirigi hasta la habitaci n me dijo qué iba a preguntar En recepci n
+Usuario: D game venden cigarros luky, chifles, gaseosas
+Usuario: porqué por aqu no hay tiendas peque as verdad
+Asistente: Recepcion Hotel Pe a Linda
+---
+
+Asistente: a 5 minutos caminando hay varios mini market y restaurantes también hacia el lado derecho saliendo del hotel. unos 10 minutos caminando. Vaya a los ultimos del lado izquiero.
+Usuario: A 5 minutos nomas
+Asistente: izquierdo, la tienda qué está al lado derecho o del hotel costa blanca, siempre roban a los huespedes. sí unos 5 a 10 minutos caminando. compre en las qué están del lado derecho
+Usuario: Entonces hacia dónde me voy
+Asistente: y compra en las qué están del lado izquierdo. hay varias.
+---
+
+Usuario: Hay motos afuera
+Asistente: Deberia, no estamos en el hotel por aca.
+Usuario: Por aqu no es peligroso verdad
+Asistente: No para nada. no se preocupe.
+Asistente: me referian en las tiendas, siempre le cobran de mas, las qué est en la tienda del costa blanca, y otra qué está en esa misma linea. Por eso le recomendaba las qué están del lado izquierdo, hay una gigante qué está al final y hay de todo.
+Usuario: Ah ya ok Y por ah hay restaurantes
+Asistente: sí tambien, pero no se sí a está hora esten atendiendo la verdad.
+---
+
+Asistente: quizas si, caminen y vean las opciones
+Asistente: saliendo del hotel hacia mano derecha, cómo sí caminaran hacia los organos.
+Usuario: Una consulta Tenemos acceso a la piscina
+Asistente: Claro
+Asistente: por favor comun quese con recepci n
+Usuario: Buenas tardes
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Usuario: habitación para dos personas viernes 31 al 01 de febrero, sin ni os dos noches
+Asistente: Del 31 al 2 de febrero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s
+---
+
+Asistente: Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: es habitación frente al mar
+Asistente: si, es un Bungalow Piso superior con vista al mar
+Usuario: Y está promocion
+Asistente: Te recomendamos visitar nuestro Instagram https www.instagram.com hotelpenalindabungalows All podr s encontrar fotos y videos del hotel, las instalaciones, el restaurante, la playa y la piscina
+Usuario: aquí m saldria 530
+Asistente: Sii la promo es v lida de domingo a jueves, piso superior x noche para 2
+---
+
+Asistente: le estaria saliendo en S 278,74 por noche
+Usuario: Y en primer piso
+Asistente: es un poco más costoso, desea cotizar
+Usuario: Mmm ntiendo. Y puedo pagar xon tarjeta verdad cómo está la zona No se lleno de piedras Por lo del oleaje
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+Asistente: El oleaje anomalo es medianamente normal en está poca, duro un día y afortunadamente ya todo mancora se encuentra operando con normalidad. Por suerte nunca afecto el hotel y siempre estuvimos operando con normalidad. Hay un fen meno natural qué sólo ocurre en el verano (enero) qué la playa frente al hotel se llena de rocas, sin embargo es todo un evento ya qué se forman piscinas naturales y puedes apreciar peces e incluso estrellas de mar.
+Usuario: entiendo izipay seria bueno
+---
+
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: Disponemos de BCP BBVA e Interbank, a nombre y ruc del hotel tambi n disponemos de un link de izipay para pagos con tarjeta de cr dito
+Usuario: Una vez registrada su reserva llegar un email de instrucciones, con los detalles de su reserva y m todos de pago
+---
+
+Usuario: entrada Vienes 31 de enero 2025 Salida 02 de febrero de 2025 Carolina Lalangui Carrion 48306 clalangui12 gmail.com Piura abono el 50
+Asistente: hola, , disculpe tenemos el chat colapsado de msjs, ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: ya le confirmo Un favor, puede enviarnos un voucher dónde se visualice el monto abonado
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+---
+
+Asistente: le envio nuestros tour por sí se anima Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas
+Usuario: buenos dias, una consulta, tengo una reservacion de tres dias, dos noches para edte fin de semana. Habria la posibilidad de poder reprogramarlo
+Usuario: Buenos días
+Asistente: Hola buenos d as. Para cambios de fecha son m nimo 15 de anticipaci n cómo indican nuestras pol ticas y 7 d as m nimo cómo excepci n. Lamentablemente ya no puede realizar un cambio de fecha, en caso no pueda asistir perder a lo abonado.
+Usuario: Entiendo, sí confirmo la estadía
+Usuario: Buenos dias, no habria forma de poder dejar o reprogramar mi visita al hotel
+Usuario: Se me está haciendo dificil poder viajar este fin de semana
+---
+
+Usuario: Mi estadía es para este fin de semana Me gustaria mucho poder conocer el hotel
+Asistente: Buen dia. En caso de no asistir, perderia el 100 de lo abonado lamentablemente.
+Usuario: Entoncs sí confirmo stadia
+Usuario: Buenas tardes, me podr an brindar informaci n sobre sus habitaciones, servicios, etc. Mi nombre es Lissette Cort z, posible fecha de reserva del 23 02 al 28 02, dos personas
+Asistente: Hola buenas tardes, Con gusto le preparo la cotizaci n.
+Asistente: Del 23 02 al 28 02
+Usuario: Pisos superiores
+Asistente: Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia
+---
+
+Usuario: VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: Una consulta
+Usuario: yo hace un tiempo atr s fui y me hospede en una habitaci n qué no era tan arriba y daba vista al mar a ver sí te busco la foto
+Asistente: Si, todos los bungalows del hotel poseen balc n privado con vista al mar. Le envio el croquis
+Usuario: queria aprox esa altura
+Asistente: para qué me comente cuál pudo haber sido para ver sí está disponible
+---
+
+Usuario: 2 personas
+Usuario: VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Otra consulta, yo estoy esperando qué me den la fecha de mi civil en la Municipalidad, por ejemplo, sí yo pagara hoy podr a mover la fecha tentativamente es para el 23 pero no tengo la seguridad al 100 aún
+Asistente: sí podría mover la fecha sin embargo le recomendaria mejor reservar cuándo tenga las fechas definidas, ya qué puede suceder qué las fechas de su reserva sean tomadas. Los matrimoniales son pocos, y son los primeros qué se reservan, para evitar inconvenientes, le recomendamos reservar cuándo ya tenga la fecha segura
+Usuario: De acuerdo, está semana me confirman y me vuelvo a comunicar
+Asistente: perfecto, aún estamos con bastante anticipaci n para qué reserve el qué más le gusta
+Usuario: me imagino también qué para esas fechas ya bajo lo del oleaje
+Asistente: El oleaje anomalo es medianamente normal en está epoca, duro un día y afortunadamente ya todo mancora se encuentra operando con normalidad. Por suerte nunca afecto el hotel y siempre estuvimos operando con normalidad
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+---
+
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: queria actualizar mi cotizaci n 4 noches y 5 días a partir del 04 03
+Usuario: bungalows pie de playa para dos personas
+Asistente: Con gusto le preparo la cotizaci n.
+Asistente: Del 4 al 8 de marzo 2025
+Usuario: Primer piso con salida a la arena y salida a la playa balcón privado vista al mar 2 personas
+---
+
+Usuario: Incluye desayunos 1 ronda de chilcano pisco de cortesia VALIDO ABONANDO HOY EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Si, por favor
+Asistente: Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion
+Usuario: Ya se orita dejeme ver para ver sí le puedo transferir el 100 ahora
+Usuario: yo me hosede anteriormente en una habitaci n qué ahí no más estaba la playa
+---
+
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Asistente: si, he cotizado un bungalow de primer piso
+Usuario: Fecha de entrada 03 03 2024
+---
+
+Usuario: Fecha de salida 07 03 2024
+Asistente: Nombres y apellidos del titular Lissette Miryam Cortez Marquez
+Usuario: N celular DNI 44178317 Correo lissettecortezmarquez gmail.com Lugar de dónde nos visita Lima Reserva abonando el 50 o el 100 - Abono 100
+Usuario: Hasta qué hora puedo abonar es qué tengo en una cuenta dónde debo retirar y luego depositar para hacer los movimientos
+Asistente: ya le reservo un momento por favor puede abonar antes de las 8pm qué salimos de horario
+---
+
+Asistente: desea realizar la reserva
+Usuario: Si, por favor
+Asistente: ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: Le adjunto nuestros PDF de taxis y tours Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia
+---
+
+Asistente: Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion mancora traver.pdf
+Usuario: en el correo me sale 1087.24 no 1042.58
+Asistente: ya verifico, un momento por favor
+Usuario: Se orita y uds hacen un algun tipo de decoraci n o ofrecen algo por recien casados
+Usuario: Ya voy hacer el dep sito deposito el monto de 1042.58
+Asistente: sí correcto Nos envia por este medio el pago
+Usuario: Me confirma pf
+---
+
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Asistente: Claro Puede coordinar con recepci n sí desea una cena rom ntica o una decoraci n en su Bungalow Recepcion Hotel Pe a Linda
+Asistente: Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion sí por favor Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas
+---
+
+Asistente: Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia
+Usuario: Buenos d as hice una reserva con ustedes
+Usuario: ya tengo los boletos de avi n, pero queria hacer una consulta, una vez me paso qué me fui a piura y atrasaron el vuelo, sí pasar eso, podría mover la fecha del hotel quiz s un día o dos
+Usuario: Sujeto a disponibilidad
+Usuario: Perfecto se orita
+Usuario: también voy a querer el servicio de taxi el taxi sí se puede mover en esos casos,n o
+Asistente: sí el taxi puede moverlo tambien, avisando con anticipaci n. Desea reservar el taxi
+Asistente: Para reservar la movilidad debe indicarnos los siguientes datos.
+---
+
+Usuario: Aeropuerto Destino
+Asistente: Nombre del titular
+Usuario: teléfono Correo Aerol nea número de Vuelo Fecha de llegada Hora de llegada Cantidad de personas Una vez registrada su reserva le enviaremos un PDF con las instrucciones de pago
+---
+
+Usuario: Hola burnas tardes
+Asistente: Hola, bienvenido al hotel Pe a Linda. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: Hola buen día
+Usuario: La fecha Seria del 30 al 2 30 enero al 2 de febrero
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte.
+---
+
+Asistente: Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Asistente: Cantidad de personas
+Usuario: sí hay ni os incluir edades
+Usuario: La fecha La cantidad es 2 personas habitación doble
+Asistente: Con gusto le preparo la cotizaci n.
+---
+
+Asistente: Del 30 al 2 de febrero Bungalow primer piso, con salida a la arena y con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortes a V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Asistente: Adicional al costo de estad a podemos ofrecerte tours de nado con tortugas, buceo, avistamiento de ballenas. Sunset party en yate Cuatrimoto, moto acu tica y mucho m s Te gustar a recibir informaci n Trabajamos con la mejor agencia de tours de mancora
+Usuario: Tambi n gestionamos servicios de taxi confiables desde el aeropuerto. Tu satisfacci n es nuestra prioridad.
+Usuario: Disculpa podrias cotizar
+---
+
+Usuario: Del 31 ener - 3 febre
+Usuario: Tuve un cambio en mi itinerario
+Usuario: Hola buenas noches
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades M podras brindar la cuenta
+Usuario: Porfavor m brindas la cuenta para transferir
+Usuario: Hola buenos días
+---
+
+Usuario: Envieme el número de cuenta porfavor
+Asistente: Hola, buen día sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+---
+
+Usuario: Buen día Fecha de entrada seria
+Usuario: sí desea reservar, nos debe confirmar los siguientes datos Fecha de entrada 31 01 25 Fecha de salida 3 02 25
+Asistente: Nombres y apellidos del titular Merelin Pi a Rodriguez
+Usuario: N celular DNI 74385294 Correo merita1406 gmail.com Lugar de dónde nos visita Lima Reserva abonando el 50 o el 100 abonare el 100
+---
+
+Asistente: ya le reservo
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Super ahí lo reviso Durante la tarde estaré haciendo el pago
+Usuario: Para confirmar qué no encontr el correo
+Asistente: merita1406 gmail.com ese es su correo electrinco
+Asistente: ok se lo reenviare, igual verifique en sus spam
+Usuario: Ahora sí llego
+---
+
+Asistente: perfecto
+Usuario: Hola una consulta
+Usuario: sólo queda el primer piso M muestras fotos de la habitación
+Asistente: sí sólo para las fechas disponemos de primer piso
+Usuario: Buenas no ches ya hice el paho
+Asistente: Ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Llegando veré las opciones
+---
+
+Usuario: De tours qué hayan
+Asistente: Se deben reservar con m nimo 24h de anticipaci n. Desea qué le enviemos el PDF de los tours
+Usuario: Cuales son las opciones Para programarme
+Asistente: Ya le env o
+Usuario: sí porfis Y sí tienes una guia de cómo llegar o sí l sí debo tomar taxi Para llegar
+Usuario: Contamos con taxis de confianza qué lo pueden trasladar desde el aeropuerto hasta el hotel o viceversa
+---
+
+Asistente: En el PDF podr ver los costos del taxi dependiendo del aeropuerto a dónde llegue y la cantidad de personas Puede reservar el taxi Hasta MAXIMO 24 horas antes. La reserva se realiza por este medio, realizando el pago a las cuentas de la agencia
+Asistente: Trabajamos con una de las mejores agencias de Tour en Mancora. En cada PDF podr s encontrar a detalle los tipos de tour, actividades y costos por personas
+Usuario: Los tours se reservan por este mismedio hasta con MAXIMO 24 horas de anticipacion. Los recogen en recepcion mancora traver.pdf
+Usuario: Hola buenas tardes Para confirmar El paseo costero Para el sabado 2 personas
+Asistente: Para reservar el tour debe indicarnos los siguientes datos. El tour se reserva con el 100 a las cuentas de la agencia
+---
+
+Asistente: Nombre del Tour
+Usuario: Fecha Cantidad de personas Ni os (con edades) Nombre y apellido de los pasajeros DNI de los pasajeros número de contacto Correo Una vez registrada su reserva a su correo le llegaran las instruccionesde pago
+Usuario: Nombre del Tour Paseo Costero Fecha 01 02 25
+---
+
+Usuario: Cantidad de personas Ni os (con edades) 2 adultos Nombre y apellido de los pasajeros -Merelin Pi a Rodriguez DNI 74385294 -Felipa Rodriguez Lopez DNI 33946425 número de contacto Correo merita1406 gmail.com
+Usuario: Dirianny Betzabeth Ascanio Martinez. Mi n mero de cuenta BCP Soles es 82 Mi n mero de cuenta interbancaria es 19708250 Mi cuenta BBVA CUENTA INDEPENDENCIA BBVA N mero de cuenta 0011-05 CCI 199115-53
+---
+
+Asistente: Una vez realizado el pago, env enos el comprobante por este medio. Quedamos atentos a cualquier consulta.
+Asistente: Hola buenas tardes recuerde abonar el pago del tour para realizar la reserva
+Usuario: Buenas tardes Quisiera informaci n por favor para 2 personas Y sí cuentan con alguna promoci n
+Usuario: Llego el 27 a las 10pm hasta el 30 de enero
+Asistente: Del 27 al 30 de enero Bungalow primer piso con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas. Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+---
+
+Usuario: VALIDO sólo sí RESERVA HOY ABONANDO EL 50
+Usuario: Hay posibilidad de qué sea cama doble Adem s de ello, se podr a alargar las horas Debido a qué el d a 27 estar a llegando casi 11 pm
+Asistente: Mismo precio para 2 personas
+Usuario: Me gustar a sí podr as hacer algo
+Usuario: Para hacer mi pago hoy mismo
+Asistente: C mo le comentamos no podr amos asegurarle ya qué sí el d a de su salida hay un ingreso, se debe preparar el Bungalow qué toma un par de horas hasta el ingreso del hu sped.
+Usuario: Entiendo
+Asistente: sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+---
+
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Har mi reserva entonces
+Asistente: Perfecto quedamos atentos a sus datos
+Usuario: 27 01 30 01 Milena Milagros Chavarri Villena
+---
+
+Usuario: 76077349 Milenachavarri9 gmail.com
+Usuario: Mi pago ser por yape por favor
+Asistente: Disponemos de BCP BBVA e Interbank A nombre y RUC del hotel. Tambi n disponemos de izipay (link) para pagos con tarjeta ya le reservo
+Usuario: Bcp entonces por favor
+Usuario: 970.20 Correcto
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago
+---
+
+Asistente: Recuerde realizar el pago el d a de HOY del 100 para confirmar su reserva y acceder a todos los descuentos
+Asistente: ya le confirmo
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Perfecto
+Usuario: Buenas
+Usuario: Quisiera cambiar de fecha por favor, para poder disfrutar m s mi estad a en su hotel Comenzar a el 28 En la hora indicada de ingreso
+Asistente: desea del 28 al 31
+---
+
+Usuario: sí por favor
+Asistente: Listo su cambio del 28 al 31 de enero
+Usuario: Muy agradecida
+Asistente: verifique su correo
+Usuario: Buenas noches, debido a qué no se cumpli con lo acordado en la reserva y conversaci n por este medio opt por no hospedarme en su hotel debido a su mala organizaci n. Solicit el reembolso al administrador lo cuál me indic en un lapso de 48 horas, adem s, solicit una constancia compromiso del reembolso en la fecha indicada Me indicaron qué lo pasar an por este medio firmado el compromiso de devoluci n Por favor quedo pendiente Del compromiso legal a realizar
+Asistente: Hola buen d a, lamentamos los inconvenientes suscitados. La persona encargada le estar dando respuesta por este medio en horas de la tarde, no se preocupe qué se cumplir con lo acordado. Las disculpas nuevamente.
+Usuario: Buen día Por favor contin o esperando
+Asistente: Buenas tardes, se le hace envio del comprobante de la devolucion
+---
+
+Usuario: Estoy interesado Para 2 personas 3 noches Desde el d a 18 al d a 21 Me indica porfavor
+Asistente: Holaa buenas tardes, Con gusto le preparo la cotizaci n.
+Asistente: Del 18 al 21 de enero Bungalow Piso superior con vista al mar Balc n privado con vista al mar
+Usuario: 2 personas Incluye desayunos 1 ronda de chilcano pisco de cortesia
+---
+
+Usuario: V LIDO sólo sí RESERVA HOY ABONANDO EL 50
+Asistente: Nuestros medios de pago son transferencias o pagos con tarjetas . Disponemos de un link de Izipay qué acepta todo tipo de tarjetas
+Usuario: En caso este libre
+Usuario: Deseo reservar Alguien me puede responder
+Asistente: Hola buenos dias.
+Asistente: Nos encontrabamos fuera de horario Si, por un costo adicional, sólo se podría confirmar el mismo d a de su reserva. sí desea reservar, nos debe confirmar los siguientes datos
+Usuario: Fecha de entrada Fecha de salida
+---
+
+Asistente: Nombres y apellidos del titular
+Usuario: N celular Correo Lugar de dónde nos visita Reserva abonando el 50 o el 100 Una vez registrada su reserva a su correo le llegaran las instrucciones de pago
+Usuario: Ok , la Ultima pregunta
+Usuario: En caso se me complique ir en esas fechas Puedo cambiar las fechas Hay alg n costo adicional por eso
+Usuario: Podr an enviarme el pago link
+---
+
+Usuario: Fecha de entrada 18.02.25 Fecha de salida 21.02.25
+Asistente: Nombres y apellidos del titular Khalil Noel Delgado bravo
+Usuario: N celular DNI 76654173 Correo khalildelgado5 gmail.com Lugar de dónde nos visita Chiclayo Env a el link porfavor Para pagar el 100
+Asistente: Perfecto
+Usuario: Ac est
+---
+
+Asistente: ya le reservo.
+Usuario: En caso este libre la habitaci n
+Usuario: Podr amos entrar antes por favor
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas y el link para cancelar con tarjeta. IMPORTANTE Para confirmar su pago, por favor env enos el vaucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago. Recuerde realizar el pago el d a de hoy del 100 para confirmar su reserva y acceder a todos los descuentos.
+Usuario: Cerca al horario desde qué hora se considera
+Usuario: Al hotel, puede llegar a la hora qué desee para disfrutar de las instalaciones.
+Usuario: Perfecto Pero al hotel puedo llegar a cualquier hora y disfrutar de las instalaciones sin costo alguno verdad
+---
+
+Asistente: ya le confirmo
+Usuario: Ac est
+Asistente: Recuerde por favor solicitar el chilcano de cortesia a recepci n, así cómo recalcar siempre el descuento en restaurante
+Usuario: IMPORTANTE sí desea cambiar, modificar o reprogramar su reserva, debe notificarlo con MAXIMO 1 semana antes de las fechas de su reserva. Aplican condiciones.
+Asistente: La boleta o factura llegar de 24 a 48 horas a su correo
+Usuario: Hola una pregunta
+Usuario: qué debo hacer sí quiero cambiar la fecha
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Asistente: hola buenos dias, nos indica por favor el correo con el qué ha realizado su reserva, con este WhatsApp no nos aparece una reserva
+Usuario: khalildelgado5 gmail.com
+Asistente: Khalil, de acuerdo. Si, puede realizar un cambio de fecha, está a tiempo.
+Usuario: Cu l seria la nueva fecha
+Asistente: sólo puede realizar un cambio
+Usuario: Fecha de entrada 28 03 25 - Fecha de salida 31 03 25 Se podr a
+Asistente: ya le indico
+Usuario: Me indica sí se puede Antes de confirmarle porfavor
+---
+
+Usuario: Deme un momento por favor
+Asistente: Listo, estamos atentos
+Usuario: Ac tambi n son 4 d as y 3 noches
+Asistente: ok, sí lo edito, anteriormente nos indico hasta el 30 no hay problema. Nos confirma sí desea realizar el cambio.
+Asistente: Recuerde confirmarnos sí desea el cambio
+Usuario: sí , le confirmo por favor
+Asistente: Ya hemos registrado tu reserva. Por favor verifica tu correo sí no lo ves en la principal valida la carpeta SPAM y nos confirma qué datos, fechas y cantidad de personas sean correcta. Dentro del correo, encontrar s nuestras cuentas para cancelar con trasferencia y el link para cancelar con tarjeta IMPORTANTE Para confirmar su pago, por favor env enos el voucher dónde se vea el n mero de operaci n, de lo contrario no podremos validar el pago
+---
+
+Asistente: Recuerde realizar el pago el d a de HOY del 50 para confirmar su reserva y acceder a todos los descuentos
+Usuario: Me refer a a qué en un momento Le confirmo De hecho Voy a mantener Los d as
+Asistente: uy me equivoque de chat estimado
+Usuario: De antes Normal qué se mantengan los d as De antes
+---
+
+Usuario: Osea ir en febrero
+Asistente: uy sí sí disculpe, me habia equivocado de chat jaja disculpe. sí no hay problema le esperamos Nos contacta cualquier cosa. Saludos
+Usuario: Cu nto es el adicional por una habitaci n con una cama adicional
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas
+---
+
+Usuario: sí hay ni os incluir edades
+Asistente: desea cotizar para la misma fecha de su reserva del 18 al 21 de febrero para 1 persona
+Asistente: Hola, bienvenido al hotel Pe a Linda. En este momento no podemos atenderte. Podr a proporcionarme la siguiente informaci n para ayudarle mejor
+Usuario: Fecha Exacta de entrada y salida indicando el mes Cantidad de personas sí hay ni os incluir edades
+Usuario: Buen d a deseo cambiar para esas fecha de marzo Ya es confirmado
+Usuario: Me avisa por favor
+Asistente: hola buenos días
+---
+
+Asistente: Khalil ya hemos modificado la fecha de su reserva y le enviamos la confirmaci n a su correo. Le recordamos qué sólo podia realizar un sólo cambio, es decir este seria el nico y ltimo cambio qué podia realizar.
+Usuario: Nos confirma qué todo este correcto.
+Usuario: sí , todo est correcto
+Asistente: de acuerdo, le esperamos
+---
+

@@ -1,0 +1,13 @@
+¡Servicio Completado! ✅
+
+Estimado/a {{nombre}},
+
+El servicio solicitado ha sido completado:
+🏨 Habitación: {{habitacion}}
+🔧 Servicio: {{servicio}}
+⏰ Hora de finalización: {{hora_fin}}
+👨‍🔧 Atendido por: {{empleado}}
+
+Por favor, califique nuestro servicio respondiendo con un número del 1 al 5 ⭐
+
+¿Necesita algo más? ¡Estamos para servirle! 🤝 

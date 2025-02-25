@@ -1,0 +1,12 @@
+Solicitud de Servicio ⚡
+
+Cliente: {{nombre}}
+🏨 Habitación: {{habitacion}}
+🔧 Servicio: {{servicio}}
+📝 Detalles: {{detalles}}
+⏰ Hora solicitada: {{hora}}
+
+Un miembro de nuestro equipo atenderá tu solicitud lo antes posible.
+Tiempo estimado de respuesta: 15-20 minutos.
+
+Si es urgente, por favor llama directamente a recepción: {{telefono_recepcion}} 

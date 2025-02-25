@@ -1,0 +1,67 @@
+ID,Nombre,Descripción,Activo,Triggers,Respuesta,Categoría,Requiere Fecha,Requiere Tipo de Habitación,Requiere Ocupación,Fecha de Creación,Fecha de Actualización
+1,Saludo,Saludo a los clientes,true,"""\""[\\\""buen dia\\\"",\\\""buenas\\\"",\\\""hola\\\"",\\\""saludos\\\"",\\\""que tal\\\""]\""""","Hola, Buen dia!  😊👋 ¡Te comunicaste con el Hotel Peña Linda! ⛱🍹 
+
+Para información sobre estadia, por favor indicanos los siguientes datos 🥰
+
+* Fecha de check-in y check-out
+* Cantidad de personas
+* Si hay niños incluir edades",greeting,false,false,false,Thu Jan 09 2025 20:24:41 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+2,tarifa,plantilla para contizaciones,true,"[""consultar"",""tarifas"",""precio"",""costo"",""cuesta""]","Del check-in al check-out del mes.
+
+Bungalow Piso superior  con vista al mar 
+Balcón privado con vista al mar
+2 personas
+
+Tarifa especial x noche: S/. 342
+Tarifa x 2 noches: S/.684
+IGV: S/. 68.4
+Total: S/. 752.4
+
+Incluye desayunos + 1 ronda de chilcano pisco de cortesia ❤
+
+Oferta válida por tiempo limitado Reserva HOY abonando el 50% y obtén 25% de descuento en tarifa + 10% de descuento en consumos 🥳
+
+Tarifa con descuento: S/.564.3
+
+VÁLIDO SOLO SI RESERVA HOY ABONANDO EL 50%
+
+FOTOS REFERENCIALES 👇",rates,false,false,false,Thu Jan 09 2025 20:25:36 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+3,Medios de pago,Nuestro medios de pago,true,"[""medios de pago"",""como pagar"",""donde pagar"",""cuentas"",""link de pago""]","Nuestros medios de pago son: transferencias o pagos con tarjetas. Disponemos de un link de Izipay que acepta todo tipo de tarjetas 😊
+
+Nuestro check in es a las 3:00pm  y el check out a las 12:00 mediodia El hotel cuenta con piscina, restaurante, estacionamiento y Wi-Fi en el hotel.
+
+‼Todas nuestras habitaciones cuentan con TV Directv, ventilador, baño con agua caliente, amplio balcón con una excelente vista a nuestra playa y frigobar. (NO se aceptan mascotas)‼
+
+NOTA  En caso necesite mayor cobertura de wifi, solo debe acercarse a terraza (recepción)",payment,false,false,false,Thu Jan 09 2025 20:26:19 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+4,promocion,plantilla de tarifa con descuento promocional,true,"[""promo"",""oferta"",""descuento""]","PROMO FLASH VALIDO HOY POR POCAS HORAS⚡
+
+Reserva abonando el 100% el dia de HOY y obtienes un 30% de descuento en el total de la reserva!!🥳 
+
+TOTAL CON DESCUENTO: S/. 491,92
+
+
+⚠ OFERTA VALIDA SOLO ABONANDO HOY EL 100% ⚠",discount,false,false,false,Thu Jan 09 2025 20:27:10 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+5,Información General,"Bienvenido a Peña Linda Bungalows, un paraíso frente al mar en Máncora, Perú. Ofrecemos una experiencia única de relajación y confort en un entorno natural incomparable.",true,"[""información del hotel"",""detalles del hotel"",""sobre el hotel""]","Bienvenido a Peña Linda Bungalows. Somos un hotel ubicado entre los balnearios de Las Pocitas y Vichayito en Máncora, Perú. Ofrecemos bungalows con vistas al mar, piscina al aire libre y una variedad de servicios para garantizar una estancia placentera. ¿En qué podemos ayudarte hoy?",information,false,false,false,Tue Jan 14 2025 22:44:56 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:19:09 GMT-0500 (hora estándar de Perú)
+6,Ubicación,"Peña Linda Bungalows se encuentra en la Antigua Panamericana Norte Km. 1213, entre los balnearios de Las Pocitas y Vichayito, Máncora 20840, Perú.",true,"[""ubicación"",""dirección"",""cómo llegar""]","Nos encontramos en la Antigua Panamericana Norte Km. 1213, entre los balnearios de Las Pocitas y Vichayito en Máncora, Perú. Es un lugar perfecto para disfrutar de la playa y el sol. ¿Necesitas indicaciones para llegar o alguna información adicional sobre nuestra ubicación?",location,false,false,false,Tue Jan 14 2025 22:45:29 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+7,Habitaciones,"Ofrecemos bungalows con vistas al mar, equipados con ducha caliente, frigobar, TV satelital, ventilador y WiFi en áreas comunes.",true,"[""habitaciones"",""bungalows"",""tipos de habitaciones""]","En Peña Linda Bungalows, ofrecemos bungalows con vistas al mar, equipados con ducha caliente, frigobar, TV satelital, ventilador y WiFi en áreas comunes. ¿Te gustaría conocer la disponibilidad o los precios para una fecha específica?",room,false,false,false,Tue Jan 14 2025 22:46:03 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+8,Servicios,"Disfruta de nuestra piscina al aire libre rodeada de palmeras, desayuno gratuito y traslado al aeropuerto. ",true,"[""servicios"",""comodidades""]","En Peña Linda Bungalows, contamos con una piscina al aire libre rodeada de palmeras, desayuno gratuito y ofrecemos servicios de traslado al aeropuerto. Además, nuestras habitaciones están equipadas con TV por cable o vía satélite y WiFi gratis. ¿Hay algún servicio en particular sobre el que desees más información?",service,false,false,false,Tue Jan 14 2025 22:46:33 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+9,Reservas," Para realizar una reserva, por favor proporciona las fechas de check-in y check-out, número de personas y si hay niños, sus edades.",true,"[""reserva"",""cómo reservar"",""disponibilidad""]","Para ayudarte con tu reserva en Peña Linda Bungalows, por favor indícanos las fechas de check-in y check-out, la cantidad de personas y, si viajas con niños, sus edades. Con esta información, podremos verificar la disponibilidad y ofrecerte las mejores opciones para tu estancia.",booking,false,false,false,Tue Jan 14 2025 22:47:14 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+10,Políticas,"Nuestras políticas incluyen horarios de check-in a las 15:00 y check-out a las 12:00, y el desayuno se sirve de 8:30 am a 10:30 am.",true,"[""políticas"",""reglas del hotel"",""horarios""]","En Peña Linda Bungalows, el check-in es a las 15:00 y el check-out a las 12:00. El desayuno se sirve de 8:30 am a 10:30 am. Si tienes alguna consulta específica sobre nuestras políticas, no dudes en preguntar.",policies,false,false,false,Tue Jan 14 2025 22:47:43 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+11,Contacto,Puedes contactarnos a través de nuestro correo electrónico penalinda@yahoo.com o al WhatsApp de reservas +51 977 453 232.,true,"[""contacto"",""información de contacto"",""cómo comunicarse""]",Puedes contactarnos a través de nuestro correo electrónico penalinda@yahoo.com o al WhatsApp de reservas +51 977 453 232. Estamos aquí para ayudarte con cualquier consulta que tengas.,contact,false,false,false,Tue Jan 14 2025 22:48:18 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:24:53 GMT-0500 (hora estándar de Perú)
+12,Reserva en Peña Linda Bungalows,Información sobre cómo realizar una reserva en Peña Linda Bungalows a través de nuestra página web.,true,"""\""\\\""[\\\\\\\""reservar\\\\\\\"",\\\\\\\""reserva\\\\\\\"",\\\\\\\""web\\\\\\\"",\\\\\\\""penalinda.sirvoy.me\\\\\\\""]\\\""\""""","Gracias por tu interés en hospedarte en Peña Linda Bungalows. Para realizar una reserva, sigue estos pasos:
+
+Visita nuestra página web: Ingresa a www.penalindamancora.com.
+
+Selecciona las fechas: En la sección de reservas, ingresa tu fecha de llegada y salida, y el número de huéspedes para consultar la disponibilidad y tarifas.
+
+Elige tu bungalow: Selecciona el tipo de habitación que prefieras según tus necesidades.
+
+Completa tus datos: Proporciona la información solicitada para confirmar la reserva.
+
+Realiza el pago: Sigue las instrucciones para efectuar el pago correspondiente.
+
+Si prefieres, también puedes reservar directamente a través de nuestro sistema en penalinda.sirvoy.me.
+
+Para más detalles, puedes contactarnos al correo penalinda@yahoo.com o al WhatsApp +51 977 453 232.
+
+¡Te esperamos para que disfrutes de una experiencia inolvidable en nuestras instalaciones frente al mar! 🏖️🌊",information,false,false,false,Tue Jan 14 2025 22:49:58 GMT-0500 (hora estándar de Perú),Fri Jan 17 2025 19:18:30 GMT-0500 (hora estándar de Perú)

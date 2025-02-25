@@ -1,0 +1,12 @@
+¡Hola {{nombre}}! 👋
+
+Bienvenido al Hotel Cascade. Es un placer atenderte.
+
+Tu reservación:
+🏨 Habitación: {{habitacion}}
+📅 Check-in: {{checkin}}
+📅 Check-out: {{checkout}}
+
+Si necesitas cualquier cosa durante tu estancia, no dudes en escribirnos.
+
+¡Que tengas una excelente estancia! ✨ 

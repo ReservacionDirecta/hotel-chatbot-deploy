@@ -1,0 +1,13 @@
+¡Gracias por tu estancia {{nombre}}! 🌟
+
+Detalles de tu check-out:
+🏨 Habitación: {{habitacion}}
+📅 Fecha: {{checkout}}
+⏰ Hora límite: 12:00 PM
+
+Por favor, no olvides:
+✓ Revisar que no dejes objetos personales
+✓ Dejar la llave en recepción
+✓ Completar nuestra encuesta de satisfacción
+
+¡Esperamos verte pronto nuevamente! 👋 

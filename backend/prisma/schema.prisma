@@ -1,0 +1,222 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String         @id @default(uuid())
+  email         String         @unique
+  name          String
+  password      String
+  role          String         @default("user")
+  notifications Notification[]
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+}
+
+model Hotel {
+  id          String    @id @default(uuid())
+  name        String
+  description String
+  location    String
+  rooms       Room[]
+  services    Service[]
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model Room {
+  id          String   @id @default(uuid())
+  name        String
+  type        String
+  description String
+  capacity    Int
+  rackRate    Float
+  offerRate   Float?
+  amenities   String   // Stored as comma-separated values
+  images      String   // Stored as comma-separated values
+  status      String   @default("available") // "available" | "unavailable"
+  hotelId     String
+  hotel       Hotel    @relation(fields: [hotelId], references: [id])
+  occupancyRates OccupancyRate[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Service {
+  id          String   @id @default(uuid())
+  name        String
+  description String
+  price       Float?
+  hotelId     String
+  hotel       Hotel    @relation(fields: [hotelId], references: [id])
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model OccupancyRate {
+  id        String   @id @default(uuid())
+  startDate DateTime
+  endDate   DateTime
+  rate      Float
+  roomId    String
+  room      Room     @relation(fields: [roomId], references: [id])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Script {
+  id          Int      @id @default(autoincrement())
+  name        String
+  description String
+  active      Boolean  @default(true)
+  triggers    String   // JSON string array
+  response    String
+  category    String?
+  requiresDate Boolean @default(false)
+  requiresRoomType Boolean @default(false)
+  requiresOccupancy Boolean @default(false)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Training {
+  id        String   @id @default(uuid())
+  filename  String
+  filepath  String
+  status    String   // pending, processing, completed, error
+  progress  Int      @default(0)
+  error     String?
+  processedContent Json?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Conversation {
+  id           String    @id @default(uuid())
+  whatsappId   String    @unique
+  name         String
+  phoneNumber  String
+  status       String    @default("active")
+  lastMessage  String?
+  lastMessageAt DateTime?
+  messages     Message[]
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+}
+
+model Message {
+  id            String      @id @default(cuid())
+  whatsappId    String      @unique
+  content       String
+  sender        String      // 'user' | 'bot'
+  status        String?     @default("pending")
+  metadata      String?     // Metadatos de archivos multimedia en formato JSON
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+  conversation  Conversation @relation(fields: [conversationId], references: [id])
+  conversationId String
+
+  @@index([conversationId])
+}
+
+model HotelSettings {
+  id              String   @id @default(uuid())
+  name            String
+  address         String
+  phone           String
+  email          String
+  checkInTime     String
+  checkOutTime    String
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model ChatbotSettings {
+  id              Int      @id @default(autoincrement())
+  welcomeMessage  String   @default("¡Hola! Bienvenido al Hotel. ¿En qué puedo ayudarte?")
+  language        String   @default("es")
+  autoReply       Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model SecuritySettings {
+  id                String   @id @default(uuid())
+  twoFactorEnabled  Boolean  @default(false)
+  sessionTimeout    Int      @default(30)
+  ipWhitelist      String?
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
+
+model NotificationSettings {
+  id              String   @id @default(uuid())
+  emailEnabled    Boolean  @default(true)
+  phoneEnabled    Boolean  @default(true)
+  pushEnabled     Boolean  @default(true)
+  notifyOnBooking Boolean  @default(true)
+  notifyOnCheckIn Boolean  @default(true)
+  notifyOnCheckOut Boolean @default(true)
+  notifyOnMessage Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+}
+
+model Settings {
+  id           String   @id @default(uuid())
+  personality  String   @default("profesional")
+  language     String   @default("es")
+  responseTime Int      @default(1000)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model Customer {
+  id          String    @id @default(uuid())
+  name        String
+  email       String?   @unique
+  phone       String?
+  dni         String?   @unique
+  address     String?
+  nationality String?
+  preferences String?
+  status      String    @default("active")
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model AIConfig {
+  id        Int      @id @default(autoincrement())
+  provider  String   @default("glhf") // glhf o gemini
+  apiKey    String
+  baseURL   String   @default("https://glhf.chat/api/openai/v1")
+  model     String   @default("hf:meta-llama/Llama-3.3-70B-Instruct")
+  exchangeRate String @default("3.70")
+  customInstructions String @default("Eres un asistente virtual del Hotel Cascade. Cuando menciones precios de habitaciones, debes hacer la conversión de dólares a soles usando el tipo de cambio del día. \nPor ejemplo, si una habitación cuesta $100 USD y el tipo de cambio es 3.70, deberás indicar: \"La habitación cuesta $100 USD (S/. 370 soles)\".\nSiempre muestra ambos precios: en dólares y en soles.")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Notification {
+  id        Int      @id @default(autoincrement())
+  userId    String
+  type      String   // booking, checkIn, checkOut, message
+  content   String
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id])
+
+  @@index([userId])
+}
