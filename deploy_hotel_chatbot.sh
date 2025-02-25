@@ -19,29 +19,30 @@ mkdir -p ~/hotel-chatbot/uploads
 mkdir -p ~/hotel-chatbot/data
 mkdir -p ~/hotel-chatbot/exports
 
-# Clonar el repositorio si no existe
-if [ ! -d ~/hotel-chatbot-repo ]; then
-  echo -e "${YELLOW}Clonando repositorio...${NC}"
-  git clone https://github.com/ReservacionDirecta/hotel-chatbot-deploy.git ~/hotel-chatbot-repo
+# Verificar si PostgreSQL está en ejecución
+echo -e "${YELLOW}Verificando PostgreSQL...${NC}"
+if ! sudo systemctl is-active --quiet postgresql; then
+  echo -e "${RED}PostgreSQL no está en ejecución. Iniciando...${NC}"
+  sudo systemctl start postgresql
 fi
+
+# Verificar si la base de datos existe
+echo -e "${YELLOW}Verificando base de datos...${NC}"
+if ! sudo -u postgres psql -lqt | cut -d \| -f 1 | grep -qw hotel_chatbot; then
+  echo -e "${RED}La base de datos 'hotel_chatbot' no existe. Creándola...${NC}"
+  sudo -u postgres psql -c "CREATE DATABASE hotel_chatbot;"
+  sudo -u postgres psql -c "GRANT ALL PRIVILEGES ON DATABASE hotel_chatbot TO hotel_user;"
+fi
+
+# Actualizar el repositorio
+echo -e "${YELLOW}Actualizando repositorio...${NC}"
+cd ~/hotel-chatbot-repo
+git pull
 
 # Copiar archivos al directorio de la aplicación
 echo -e "${YELLOW}Copiando archivos al directorio de la aplicación...${NC}"
 cp -r ~/hotel-chatbot-repo/backend/* ~/hotel-chatbot/backend/
 cp -r ~/hotel-chatbot-repo/frontend/* ~/hotel-chatbot/frontend/
-
-# Configurar variables de entorno si no existen
-if [ ! -f ~/hotel-chatbot/backend/.env ]; then
-  echo -e "${YELLOW}Configurando variables de entorno del backend...${NC}"
-  cp ~/hotel-chatbot/backend/.env.example ~/hotel-chatbot/backend/.env
-  # Configurar la conexión a la base de datos
-  sed -i 's|DATABASE_URL=.*|DATABASE_URL="postgresql://hotel_user:password@localhost:5432/hotel_chatbot"|g' ~/hotel-chatbot/backend/.env
-fi
-
-if [ ! -f ~/hotel-chatbot/frontend/.env.local ]; then
-  echo -e "${YELLOW}Configurando variables de entorno del frontend...${NC}"
-  cp ~/hotel-chatbot/frontend/.env.example ~/hotel-chatbot/frontend/.env.local
-fi
 
 # Desplegar Backend
 echo -e "${YELLOW}Desplegando backend...${NC}"
@@ -61,6 +62,9 @@ npm install
 
 echo -e "${YELLOW}Generando cliente Prisma...${NC}"
 npm run prisma:generate
+
+echo -e "${YELLOW}Ejecutando migraciones de Prisma...${NC}"
+npm run prisma:migrate:deploy
 
 echo -e "${YELLOW}Construyendo backend...${NC}"
 npm run build
@@ -89,6 +93,15 @@ pm2 start npm --name hotel-chatbot-frontend -- start
 # Guardar configuración de PM2
 pm2 save
 
+# Configurar PM2 para iniciar en el arranque
+pm2 startup | tail -n 1 | bash
+
 echo -e "${GREEN}=== Despliegue completado con éxito ===${NC}"
 echo -e "${GREEN}Backend: http://$(hostname -I | awk '{print $1}'):4000/api${NC}"
-echo -e "${GREEN}Frontend: http://$(hostname -I | awk '{print $1}'):3000${NC}" 
+echo -e "${GREEN}Frontend: http://$(hostname -I | awk '{print $1}'):3000${NC}"
+
+# Verificar servicios
+echo -e "${YELLOW}Verificando servicios...${NC}"
+pm2 status
+curl -s http://localhost:4000/api/health || echo -e "${RED}El backend no está respondiendo${NC}"
+curl -s http://localhost:3000 > /dev/null && echo -e "${GREEN}El frontend está respondiendo${NC}" || echo -e "${RED}El frontend no está respondiendo${NC}" 
